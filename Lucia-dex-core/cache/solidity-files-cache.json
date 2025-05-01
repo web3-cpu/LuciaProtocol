@@ -1,0 +1,2497 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\callback\\ILuciaFlashCallback.sol": {
+      "lastModificationDate": 1732567404124,
+      "contentHash": "461524995605a447d67763a6dd8bcc5c",
+      "sourceName": "contracts/interfaces/callback/ILuciaFlashCallback.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaFlashCallback"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TestLuciaCallee.sol": {
+      "lastModificationDate": 1732567404158,
+      "contentHash": "63f98306e1d1a7e6236efc98a2129fa3",
+      "sourceName": "contracts/test/TestLuciaCallee.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../interfaces/IERC20Minimal.sol",
+        "../libraries/SafeCast.sol",
+        "../libraries/TickMath.sol",
+        "../interfaces/callback/ILuciaMintCallback.sol",
+        "../interfaces/callback/ILuciaSwapCallback.sol",
+        "../interfaces/callback/ILuciaFlashCallback.sol",
+        "../interfaces/ILuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TestLuciaCallee"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\IERC20Minimal.sol": {
+      "lastModificationDate": 1732567404123,
+      "contentHash": "800b240e8aa72e72ff156607009bb4e7",
+      "sourceName": "contracts/interfaces/IERC20Minimal.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "IERC20Minimal"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\SafeCast.sol": {
+      "lastModificationDate": 1732567404139,
+      "contentHash": "1fcb436e2f434938e6b62c8c1bcd87ba",
+      "sourceName": "contracts/libraries/SafeCast.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "SafeCast"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\TickMath.sol": {
+      "lastModificationDate": 1732567404140,
+      "contentHash": "c1961439172c54237fdde6f7c4ea004b",
+      "sourceName": "contracts/libraries/TickMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.8.0"
+      ],
+      "artifacts": [
+        "TickMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\callback\\ILuciaMintCallback.sol": {
+      "lastModificationDate": 1732567404125,
+      "contentHash": "9b94b30966ff5a6f74ce4243b33e86b4",
+      "sourceName": "contracts/interfaces/callback/ILuciaMintCallback.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaMintCallback"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\callback\\ILuciaSwapCallback.sol": {
+      "lastModificationDate": 1732567404125,
+      "contentHash": "2dd8a4b92f249ba114d6062074c3041d",
+      "sourceName": "contracts/interfaces/callback/ILuciaSwapCallback.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaSwapCallback"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\ILuciaPool.sol": {
+      "lastModificationDate": 1732567404123,
+      "contentHash": "096788d8cd40b22eebd6070d426f017e",
+      "sourceName": "contracts/interfaces/ILuciaPool.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./pool/ILuciaPoolImmutables.sol",
+        "./pool/ILuciaPoolState.sol",
+        "./pool/ILuciaPoolDerivedState.sol",
+        "./pool/ILuciaPoolActions.sol",
+        "./pool/ILuciaPoolOwnerActions.sol",
+        "./pool/ILuciaPoolEvents.sol"
+      ],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPool"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\pool\\ILuciaPoolImmutables.sol": {
+      "lastModificationDate": 1732567404126,
+      "contentHash": "84774ac3d842a4bffdcab6816453f8bf",
+      "sourceName": "contracts/interfaces/pool/ILuciaPoolImmutables.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPoolImmutables"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\pool\\ILuciaPoolDerivedState.sol": {
+      "lastModificationDate": 1732567404126,
+      "contentHash": "895af9d771ba8764514afb97a97e9727",
+      "sourceName": "contracts/interfaces/pool/ILuciaPoolDerivedState.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPoolDerivedState"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\pool\\ILuciaPoolEvents.sol": {
+      "lastModificationDate": 1732567404126,
+      "contentHash": "957c8454335093300897cf452c507247",
+      "sourceName": "contracts/interfaces/pool/ILuciaPoolEvents.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPoolEvents"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\pool\\ILuciaPoolOwnerActions.sol": {
+      "lastModificationDate": 1732567404134,
+      "contentHash": "358d639b1617fbda2ef2c216643a7391",
+      "sourceName": "contracts/interfaces/pool/ILuciaPoolOwnerActions.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPoolOwnerActions"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\pool\\ILuciaPoolActions.sol": {
+      "lastModificationDate": 1732567404126,
+      "contentHash": "a7487f744eb6d92e70d156fd9ff213e5",
+      "sourceName": "contracts/interfaces/pool/ILuciaPoolActions.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPoolActions"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\pool\\ILuciaPoolState.sol": {
+      "lastModificationDate": 1732567404134,
+      "contentHash": "b9154ac6d73309548523173b5f4216b9",
+      "sourceName": "contracts/interfaces/pool/ILuciaPoolState.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPoolState"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TestLuciaSwapPay.sol": {
+      "lastModificationDate": 1732567404160,
+      "contentHash": "bf8e225ea694cc7964ed5632fade5eb7",
+      "sourceName": "contracts/test/TestLuciaSwapPay.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../interfaces/IERC20Minimal.sol",
+        "../interfaces/callback/ILuciaSwapCallback.sol",
+        "../interfaces/ILuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TestLuciaSwapPay"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TestLuciaRouter.sol": {
+      "lastModificationDate": 1732567404158,
+      "contentHash": "3b8f6d1212dc02485a0d273b820094e5",
+      "sourceName": "contracts/test/TestLuciaRouter.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SafeCast.sol",
+        "../libraries/TickMath.sol",
+        "../interfaces/IERC20Minimal.sol",
+        "../interfaces/callback/ILuciaSwapCallback.sol",
+        "../interfaces/ILuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TestLuciaRouter"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TestERC20.sol": {
+      "lastModificationDate": 1732567404148,
+      "contentHash": "73a891733907799f692bd046c34171cd",
+      "sourceName": "contracts/test/TestERC20.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../interfaces/IERC20Minimal.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TestERC20"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\LuciaPoolSwapTest.sol": {
+      "lastModificationDate": 1732567404144,
+      "contentHash": "2f1ca408c7d712a457af2cf9925faaa1",
+      "sourceName": "contracts/test/LuciaPoolSwapTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../interfaces/IERC20Minimal.sol",
+        "../interfaces/callback/ILuciaSwapCallback.sol",
+        "../interfaces/ILuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "LuciaPoolSwapTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\LuciaPool.sol": {
+      "lastModificationDate": 1732567404122,
+      "contentHash": "729ecd1f9897c81b06ab00d422fc59e5",
+      "sourceName": "contracts/LuciaPool.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./interfaces/ILuciaPool.sol",
+        "./NoDelegateCall.sol",
+        "./libraries/LowGasSafeMath.sol",
+        "./libraries/SafeCast.sol",
+        "./libraries/Tick.sol",
+        "./libraries/TickBitmap.sol",
+        "./libraries/Position.sol",
+        "./libraries/Oracle.sol",
+        "./libraries/FullMath.sol",
+        "./libraries/FixedPoint128.sol",
+        "./libraries/TransferHelper.sol",
+        "./libraries/TickMath.sol",
+        "./libraries/LiquidityMath.sol",
+        "./libraries/SqrtPriceMath.sol",
+        "./libraries/SwapMath.sol",
+        "./interfaces/ILuciaPoolDeployer.sol",
+        "./interfaces/ILuciaFactory.sol",
+        "./interfaces/IERC20Minimal.sol",
+        "./interfaces/callback/ILuciaMintCallback.sol",
+        "./interfaces/callback/ILuciaSwapCallback.sol",
+        "./interfaces/callback/ILuciaFlashCallback.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "LuciaPool"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\LowGasSafeMath.sol": {
+      "lastModificationDate": 1732567404138,
+      "contentHash": "64fd07e0a48648078b9a82620fcc99b8",
+      "sourceName": "contracts/libraries/LowGasSafeMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0"
+      ],
+      "artifacts": [
+        "LowGasSafeMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\NoDelegateCall.sol": {
+      "lastModificationDate": 1732567404122,
+      "contentHash": "ffe4141ae03485296e97dc37b20e01c2",
+      "sourceName": "contracts/NoDelegateCall.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "NoDelegateCall"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\TickBitmap.sol": {
+      "lastModificationDate": 1732567404140,
+      "contentHash": "b5ab91b474967827b539e4931fbbaf7d",
+      "sourceName": "contracts/libraries/TickBitmap.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./BitMath.sol"
+      ],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "TickBitmap"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\Tick.sol": {
+      "lastModificationDate": 1732567404140,
+      "contentHash": "1a6b77e9a46a6aa928a0e7218182201f",
+      "sourceName": "contracts/libraries/Tick.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./LowGasSafeMath.sol",
+        "./SafeCast.sol",
+        "./TickMath.sol",
+        "./LiquidityMath.sol"
+      ],
+      "versionPragmas": [
+        ">=0.5.0 <0.8.0"
+      ],
+      "artifacts": [
+        "Tick"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\Position.sol": {
+      "lastModificationDate": 1732567404138,
+      "contentHash": "a55b6c8699ca8c064fcd2ac39a041973",
+      "sourceName": "contracts/libraries/Position.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./FullMath.sol",
+        "./FixedPoint128.sol",
+        "./LiquidityMath.sol"
+      ],
+      "versionPragmas": [
+        ">=0.5.0 <0.8.0"
+      ],
+      "artifacts": [
+        "Position"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\FullMath.sol": {
+      "lastModificationDate": 1732567404137,
+      "contentHash": "11913fd03f77ce4b8079ac228cc2e671",
+      "sourceName": "contracts/libraries/FullMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.0 <0.8.0"
+      ],
+      "artifacts": [
+        "FullMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\Oracle.sol": {
+      "lastModificationDate": 1732567404138,
+      "contentHash": "f8a3fb4da7c8f67e66cda830225725d4",
+      "sourceName": "contracts/libraries/Oracle.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.8.0"
+      ],
+      "artifacts": [
+        "Oracle"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\FixedPoint128.sol": {
+      "lastModificationDate": 1732567404136,
+      "contentHash": "c054ee6029cb5e7281b83d6fd45c8068",
+      "sourceName": "contracts/libraries/FixedPoint128.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.0"
+      ],
+      "artifacts": [
+        "FixedPoint128"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\TransferHelper.sol": {
+      "lastModificationDate": 1732567404141,
+      "contentHash": "48a44bdb279245a8da2f68853a74e9ca",
+      "sourceName": "contracts/libraries/TransferHelper.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../interfaces/IERC20Minimal.sol"
+      ],
+      "versionPragmas": [
+        ">=0.6.0"
+      ],
+      "artifacts": [
+        "TransferHelper"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\LiquidityMath.sol": {
+      "lastModificationDate": 1732567404137,
+      "contentHash": "4b4a3bb5e7e309ce70c8d47069d5f764",
+      "sourceName": "contracts/libraries/LiquidityMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "LiquidityMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\SwapMath.sol": {
+      "lastModificationDate": 1732567404139,
+      "contentHash": "d8a9a9d3c36633cbcca108e5bd76aa9c",
+      "sourceName": "contracts/libraries/SwapMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./FullMath.sol",
+        "./SqrtPriceMath.sol"
+      ],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "SwapMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\SqrtPriceMath.sol": {
+      "lastModificationDate": 1732567404139,
+      "contentHash": "78d58b1c87dddc8ef6fde3c553b67a7d",
+      "sourceName": "contracts/libraries/SqrtPriceMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./LowGasSafeMath.sol",
+        "./SafeCast.sol",
+        "./FullMath.sol",
+        "./UnsafeMath.sol",
+        "./FixedPoint96.sol"
+      ],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "SqrtPriceMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\ILuciaPoolDeployer.sol": {
+      "lastModificationDate": 1732567404124,
+      "contentHash": "85e7c7c7b9e23ce3f7e1ddb0ae6badea",
+      "sourceName": "contracts/interfaces/ILuciaPoolDeployer.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaPoolDeployer"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\interfaces\\ILuciaFactory.sol": {
+      "lastModificationDate": 1732567404123,
+      "contentHash": "0dc229f1c59f2db958b1f1a33a3dccef",
+      "sourceName": "contracts/interfaces/ILuciaFactory.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "ILuciaFactory"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\BitMath.sol": {
+      "lastModificationDate": 1732567404135,
+      "contentHash": "2b55d1de49b29a36ce81fbeb48e26d60",
+      "sourceName": "contracts/libraries/BitMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "BitMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\FixedPoint96.sol": {
+      "lastModificationDate": 1732567404136,
+      "contentHash": "d5ac3f03695c961ce044a081e3edf7aa",
+      "sourceName": "contracts/libraries/FixedPoint96.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.0"
+      ],
+      "artifacts": [
+        "FixedPoint96"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\libraries\\UnsafeMath.sol": {
+      "lastModificationDate": 1732567404141,
+      "contentHash": "b7395340ecec2c9c604d48ee19980b4b",
+      "sourceName": "contracts/libraries/UnsafeMath.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0"
+      ],
+      "artifacts": [
+        "UnsafeMath"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\MockTimeLuciaPool.sol": {
+      "lastModificationDate": 1732567404145,
+      "contentHash": "8c58b11e1640cad256b992733f24f187",
+      "sourceName": "contracts/test/MockTimeLuciaPool.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../LuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "MockTimeLuciaPool"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\MockTimeLuciaPoolDeployer.sol": {
+      "lastModificationDate": 1732567404145,
+      "contentHash": "49aeae7b65476063e32fc412b64a8234",
+      "sourceName": "contracts/test/MockTimeLuciaPoolDeployer.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../interfaces/ILuciaPoolDeployer.sol",
+        "./MockTimeLuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "MockTimeLuciaPoolDeployer"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\LuciaPoolDeployer.sol": {
+      "lastModificationDate": 1732567404122,
+      "contentHash": "a7ac217d5a3d952e6ce7e15494bf063c",
+      "sourceName": "contracts/LuciaPoolDeployer.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./interfaces/ILuciaPoolDeployer.sol",
+        "./LuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "LuciaPoolDeployer"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\LuciaFactory.sol": {
+      "lastModificationDate": 1732567404121,
+      "contentHash": "8ef9f53378705ee900fe8fd4c0e6c8f3",
+      "sourceName": "contracts/LuciaFactory.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./interfaces/ILuciaFactory.sol",
+        "./LuciaPoolDeployer.sol",
+        "./NoDelegateCall.sol",
+        "./LuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "LuciaFactory"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\NoDelegateCallTest.sol": {
+      "lastModificationDate": 1732567404146,
+      "contentHash": "054c4e47d9af17b9b35c13747dfb0c78",
+      "sourceName": "contracts/test/NoDelegateCallTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../NoDelegateCall.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "NoDelegateCallTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\SqrtPriceMathTest.sol": {
+      "lastModificationDate": 1732567404147,
+      "contentHash": "a73a3d7e7f846116d9df2039c2333375",
+      "sourceName": "contracts/test/SqrtPriceMathTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SqrtPriceMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "SqrtPriceMathTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\SqrtPriceMathEchidnaTest.sol": {
+      "lastModificationDate": 1732567404147,
+      "contentHash": "0ceca363da0b2112dbf3bc8565b246b1",
+      "sourceName": "contracts/test/SqrtPriceMathEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/FullMath.sol",
+        "../libraries/SqrtPriceMath.sol",
+        "../libraries/FixedPoint96.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "SqrtPriceMathEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\FullMathTest.sol": {
+      "lastModificationDate": 1732567404143,
+      "contentHash": "19987ecc1d8ea826472beeeb7e1b0a1c",
+      "sourceName": "contracts/test/FullMathTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/FullMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "FullMathTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\FullMathEchidnaTest.sol": {
+      "lastModificationDate": 1732567404142,
+      "contentHash": "ce91893df61a1f7a3ee155219fc98056",
+      "sourceName": "contracts/test/FullMathEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/FullMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "FullMathEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\SwapMathTest.sol": {
+      "lastModificationDate": 1732567404148,
+      "contentHash": "3f2ca71f8ec3b95e9668ffd048e66793",
+      "sourceName": "contracts/test/SwapMathTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SwapMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "SwapMathTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\SwapMathEchidnaTest.sol": {
+      "lastModificationDate": 1732567404147,
+      "contentHash": "81f047e3cf3ddb668b93255861453adf",
+      "sourceName": "contracts/test/SwapMathEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/SwapMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "SwapMathEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\LiquidityMathTest.sol": {
+      "lastModificationDate": 1732567404143,
+      "contentHash": "863dc22b9859aecdfa467b8e1aa0bbed",
+      "sourceName": "contracts/test/LiquidityMathTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/LiquidityMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "LiquidityMathTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TickTest.sol": {
+      "lastModificationDate": 1732567404162,
+      "contentHash": "f99201da4c637ad92ade42733fe7c744",
+      "sourceName": "contracts/test/TickTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/Tick.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TickTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TickOverflowSafetyEchidnaTest.sol": {
+      "lastModificationDate": 1732567404162,
+      "contentHash": "52df9e193b15e31e23673cfc9b4316ce",
+      "sourceName": "contracts/test/TickOverflowSafetyEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/Tick.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TickOverflowSafetyEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TickEchidnaTest.sol": {
+      "lastModificationDate": 1732567404160,
+      "contentHash": "c26171b310452214cff76bdd311bfb25",
+      "sourceName": "contracts/test/TickEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/Tick.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TickEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TickMathTest.sol": {
+      "lastModificationDate": 1732567404161,
+      "contentHash": "d659d6e27e7c3c0b560b60f1e002d2b0",
+      "sourceName": "contracts/test/TickMathTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/TickMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TickMathTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TickMathEchidnaTest.sol": {
+      "lastModificationDate": 1732567404161,
+      "contentHash": "1a0eea91bb61846755c7ca360ac5f0e2",
+      "sourceName": "contracts/test/TickMathEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/TickMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TickMathEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TestLuciaReentrantCallee.sol": {
+      "lastModificationDate": 1732567404158,
+      "contentHash": "a698cdf14ed415814c66579337e88fa2",
+      "sourceName": "contracts/test/TestLuciaReentrantCallee.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/TickMath.sol",
+        "../interfaces/callback/ILuciaSwapCallback.sol",
+        "../interfaces/ILuciaPool.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TestLuciaReentrantCallee"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\LowGasSafeMathEchidnaTest.sol": {
+      "lastModificationDate": 1732567404144,
+      "contentHash": "6bfdc7602bb07ee7991ba104919b6708",
+      "sourceName": "contracts/test/LowGasSafeMathEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/LowGasSafeMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "LowGasSafeMathEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\UnsafeMathEchidnaTest.sol": {
+      "lastModificationDate": 1732567404162,
+      "contentHash": "48511543a9b83d2fbad86dba198b2cba",
+      "sourceName": "contracts/test/UnsafeMathEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/UnsafeMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "UnsafeMathEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\OracleTest.sol": {
+      "lastModificationDate": 1732567404146,
+      "contentHash": "741f68f05341826b399a993125f8f1ab",
+      "sourceName": "contracts/test/OracleTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/Oracle.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "OracleTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\OracleEchidnaTest.sol": {
+      "lastModificationDate": 1732567404146,
+      "contentHash": "7d647b0ba627ce5d4687fceb68262a59",
+      "sourceName": "contracts/test/OracleEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "./OracleTest.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "OracleEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TickBitmapTest.sol": {
+      "lastModificationDate": 1732567404160,
+      "contentHash": "4d74a1f3d446f4b20f724cca165b03a1",
+      "sourceName": "contracts/test/TickBitmapTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/TickBitmap.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TickBitmapTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\TickBitmapEchidnaTest.sol": {
+      "lastModificationDate": 1732567404160,
+      "contentHash": "2599455e77afcffc90cb3addacf1592b",
+      "sourceName": "contracts/test/TickBitmapEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/TickBitmap.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "TickBitmapEchidnaTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\BitMathTest.sol": {
+      "lastModificationDate": 1732567404142,
+      "contentHash": "0b7593476cdd094f8cd096f2dbf44dd7",
+      "sourceName": "contracts/test/BitMathTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/BitMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "BitMathTest"
+      ]
+    },
+    "D:\\1Workspace\\4Lucia\\Lucia-dex-core\\contracts\\test\\BitMathEchidnaTest.sol": {
+      "lastModificationDate": 1732567404142,
+      "contentHash": "f094cc69e2c96c081fec6acc056b3c7d",
+      "sourceName": "contracts/test/BitMathEchidnaTest.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 800
+          },
+          "metadata": {
+            "bytecodeHash": "none"
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "../libraries/BitMath.sol"
+      ],
+      "versionPragmas": [
+        "=0.7.6"
+      ],
+      "artifacts": [
+        "BitMathEchidnaTest"
+      ]
+    }
+  }
+}

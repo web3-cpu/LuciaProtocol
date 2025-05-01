@@ -1,0 +1,6 @@
+{
+  "extends": "@luciaswap/eslint-config-lucia",
+  "rules": {
+    "import/no-extraneous-dependencies": 0
+  }
+}

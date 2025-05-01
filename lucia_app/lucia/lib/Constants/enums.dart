@@ -1,0 +1,4 @@
+enum UserType {
+  lender,
+  borrower,
+}

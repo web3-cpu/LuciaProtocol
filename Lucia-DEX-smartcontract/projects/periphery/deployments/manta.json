@@ -1,0 +1,8 @@
+{
+  "SwapRouter": "0xa8086B481335964b6bB0C061De78930c0C20d5ab",
+  "QuoterV2": "0xDF13f1ca5B16DF0Ddfa4C6295369Be807918dAeE",
+  "TickLens": "0x77f559e6d6929c026C060aE8b4ee28004C3326bC",
+  "NonfungibleTokenPositionDescriptor": "0x19893a8Fbb313dC4884C7e8c1116a46a4B4C8E62",
+  "NonfungiblePositionManager": "0x2C9120E20d5bEEB4A7D6Dc7c31a2f4a1ef35E115",
+  "LuciaInterfaceMulticall": "0xB0620E6AbdB387bA2d204Ae152D3eCc9F6539d7d"
+}
