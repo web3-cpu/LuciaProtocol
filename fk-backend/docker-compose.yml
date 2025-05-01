@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres_db
+    environment:
+      POSTGRES_USER: ${DB_USERNAME}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: . 
+      dockerfile: Dockerfile
+    container_name: api
+    environment:
+      DB_NAME: ${DB_NAME}
+      DB_USERNAME: ${DB_USERNAME}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_HOST: postgres  
+      DB_PORT: ${DB_PORT}
+      NODE_PORT: ${NODE_PORT}
+      NODE_ENV: ${NODE_ENV}
+      GOOGLE_OAUTH_CLIENT_ID: ${GOOGLE_OAUTH_CLIENT_ID}
+      GOOGLE_OAUTH_CLIENT_SECRET: ${GOOGLE_OAUTH_CLIENT_SECRET}
+      GOOGLE_OAUTH_REDIRECT: ${GOOGLE_OAUTH_REDIRECT}
+      JWT_TOKEN_EXPIRY_MIN: ${JWT_TOKEN_EXPIRY_MIN}
+      TOKEN_SECRET: ${TOKEN_SECRET}
+      HASH_COST: ${HASH_COST}
+      EMAIL: ${EMAIL}
+      PASSWORD: ${PASSWORD}
+      SMTP_HOST: ${SMTP_HOST}
+      GDPR_ENCRYPTION_KEY: ${GDPR_ENCRYPTION_KEY}
+      GDPR_ENCRYPTION_IV: ${GDPR_ENCRYPTION_IV}
+    ports:
+      - "${NODE_PORT}:${NODE_PORT}"
+    depends_on:
+      - postgres 
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+
+volumes:
+  pgdata:

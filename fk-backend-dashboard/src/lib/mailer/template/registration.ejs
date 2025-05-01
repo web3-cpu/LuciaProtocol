@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OTP Template</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <style>
+      * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+      }
+      body {
+        display: flex;
+        justify-content: center;
+        background-color: #f2f2f2;
+      }
+      table {
+        max-width: 500px;
+        margin: auto;
+      }
+      .header {
+        background-color: #353e4d;
+        height: 10vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .header .img {
+        height: 48px;
+      }
+      .header h1 {
+        text-transform: capitalize;
+        color: #fff;
+        font-size: 38px;
+        margin: 0 0 5px 15px;
+      }
+      .body {
+        background-image: linear-gradient(#2e4b5d, #009fd6);
+        min-height: 80vh;
+      }
+      .body .text {
+        color: #d4d9d4;
+        text-align: left;
+        font-size: 16px;
+        padding: 15px 40px;
+      }
+      .body {
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 40px 0 0 0;
+      }
+      table .head{
+          display: flex;
+          justify-content: space-between;
+          padding: 15px 40px;
+      }
+      .head-title{
+        color: #d4d9d4;
+        text-align: left;
+        font-size: 28px;
+        text-transform: capitalize;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .head-img{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+      }
+      .head-img div{
+          background-color: #fff;
+          padding: 2px 20px;
+          border-radius: 50%;
+          font-size: 50px;
+          color: #00A652;
+          border: 4px solid #00A652;
+      }
+      .footer {
+        background-color: #353e4d;
+        height: 10vh;
+        color: #fff;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th class="header">
+          <img src="http://3.7.124.53/images/docbooklogo.png" class="img" alt="logo" />
+          <h1></h1>
+        </th>
+      </tr>
+      <tr>
+        <td class="body">
+          <table>
+              <tr class="head">
+                  <th class="head-title">
+                      registration <br> successful
+                  </th>
+                  <th class="head-img">
+                      <div>&#10003;</div>
+                  </th>
+              </tr>
+            <tr>
+              <td class="text">
+                You have successfully registered on <strong>Test</strong>
+              </td>
+            </tr>
+            <tr>
+              <td class="text">Enjoy The app.</td>
+            </tr>
+            <tr>
+              <td class="text">
+                Hey, <%- name %> Your registration with test was a success! Thank you for joining test. Were excited to have you on board.
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td class="footer">
+            <p>&copy; Copyright by Test</p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

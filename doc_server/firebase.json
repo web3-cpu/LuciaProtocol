@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "book/",
+    "site": "luciadoc",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
