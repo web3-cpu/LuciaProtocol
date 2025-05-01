@@ -1,0 +1,41 @@
+{
+  "name": "sol-prism",
+  "version": "1.0.11",
+  "description": "Warping in modules anywhere instantly",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "directories": {
+    "bin": "./bin"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "dashdash": "^1.14.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "scripts": {
+    "warpin": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lingqingmeng/sol-prism.git"
+  },
+  "bin": {
+    "warpin": "./cli.js"
+  },
+  "keywords": [
+    "JS",
+    "scaffold",
+    "generator",
+    "node",
+    "tools"
+  ],
+  "author": "Ling Qing Meng <ling.q.meng@gmail.com> (http://lingqingmeng.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lingqingmeng/sol-prism/issues"
+  },
+  "homepage": "https://github.com/lingqingmeng/sol-prism#readme"
+}

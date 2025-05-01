@@ -1,0 +1,11 @@
+[book]
+authors = ["Ling Qing Meng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "documentation"
+
+[output.html]
+mathjax-support = true
+
+[output.markdown]

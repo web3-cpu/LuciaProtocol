@@ -1,0 +1,25 @@
+{
+  "name": "weissbuch",
+  "version": "1.0.0",
+  "description": "Whitepaper",
+  "main": "app/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "http-server": "^14.1.0"
+  },
+  "devDependencies": {
+    "pm2": "^5.2.0"
+  },
+  "scripts": {
+    "start-doc": "node app/index.js -p 3111",
+    "start-host": "./pm2 start app/index.js",
+    "start-prod": "./pm2 start app/index.js -- -p 3200",
+    "start-production": "./pm2 start app/index.js -- -p 3001",
+    "start-cloud": "./pm2 start app/index.js -- -p 3111",
+    "test": "node test/parser.test.js -p 3000"
+  },
+  "author": "Ling Qing Meng"
+}

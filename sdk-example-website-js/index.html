@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login and Register</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            max-width: 300px;
+            margin: 20px auto;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin: 5px 0 15px;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+  <script type = "module" src="./script.js"></script>
+  <script>
+    if(window.lucia===undefined) console.log('lucia undefined')
+   
+
+  </script>
+  <h2>Login</h2>
+  <form id="loginForm">
+    <label for="loginUsername">Username:</label>
+    <input type="text" id="loginUsername" name="loginUsername" required>
+
+    <label for="loginPassword">Password:</label>
+    <input type="password" id="loginPassword" name="loginPassword" required>
+
+    <button type="button" onclick="login()">Login</button>
+  </form>
+  
+  <h2>Register</h2>
+  <form id="registerForm">
+    <label for="registerUsername">Username:</label>
+    <input type="text" id="registerUsername" name="registerUsername" required>
+
+    <label for="registerPassword">Password:</label>
+    <input type="password" id="registerPassword" name="registerPassword" required>
+
+    <button type="button" onclick="register()">Register</button>
+  </form>
+  
+  <script>
+      function login() {
+          const username = document.getElementById('loginUsername').value;
+          const password = document.getElementById('loginPassword').value;
+              // Redirect to welcome page with username in the URL
+              if(window.lucia===undefined) console.log('lucia undefined in login')
+          window.lucia.userInfo(username)
+          window.lucia.trackConversion('user login')
+          window.lucia.buttonClick('login')
+          window.location.href = `welcome.html?username=${username}`;
+          // after successful login
+          
+      }
+      function register() {
+          const username = document.getElementById('registerUsername').value;
+          const password = document.getElementById('registerPassword').value;
+              alert('Registration successful! You can now login.');
+              // Redirect to login page after successful registration
+              if(window.lucia===undefined) console.log('lucia undefined in register')
+              window.lucia.userInfo(username)
+              window.lucia.trackConversion('user registered')
+              window.lucia.buttonClick('register')
+              window.location.href = 'index.html';
+              // after successful registeration
+              
+      }
+  </script>
+  
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css">  
+  </head>
+  <body>
+    <div id="main">
+      <h1>Hello world!</h1>
+      <btn id="btn" onClick="clickHandle()">Click me</btn>
+    </div>
+   
+    <script type = "module" src="./script.js"></script>
+    <a href="welcome.html"> welcome</a>
+  </body>
+</html>
+-->

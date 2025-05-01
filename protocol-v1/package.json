@@ -1,0 +1,14 @@
+{
+  "name": "@lucia/protocol-v1",
+  "version": "0.1",
+  "description": "Lucia Protocol v1 smart contracts",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.17.1",
+    "hardhat-contract-sizer": "^2.10.0"
+  }
+}

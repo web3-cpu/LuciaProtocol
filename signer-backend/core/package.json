@@ -1,0 +1,13 @@
+{
+  "name": "core",
+  "version": "1.0.1",
+  "description": "transaction signer backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/dev.js"
+  },
+  "author": "Ling Qing Meng",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
