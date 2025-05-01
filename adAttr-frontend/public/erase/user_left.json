@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "user_name": "0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0",
+    "created_at": "2024-03-25 14:57:52.73-04",
+    "updated_at": "2024-03-25 14:57:52.73-04",
+    "id-2": 143,
+    "jsonData": {
+      "data": {
+        "OS": "Windows NT 4.0|32 bits",
+        "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "cores": 16,
+        "touch": false,
+        "memory": 8,
+        "language": "en-US",
+        "timeZone": 6,
+        "indexedDB": {},
+        "availWidth": 1920,
+        "colorDepth": 24,
+        "uniqueHash": "26b8729860de5a4da17ee943e8c3eea63d6bb41e8dad185361a84923717b7274",
+        "availHeight": 1040,
+        "pluginNames": [
+          "PDF Viewer",
+          "Chrome PDF Viewer",
+          "Chromium PDF Viewer",
+          "Microsoft Edge PDF Viewer",
+          "WebKit built-in PDF"
+        ],
+        "screenWidth": 1920,
+        "localStorage": {
+          "debug": "smart-router:error,smart-router:log",
+          "theme": "light",
+          "WCM_VERSION": "2.6.2",
+          "_grecaptcha": "09AH1nMHIYVWq6_zZb_ZZ2LJAUWhXsczxTS8RzhtaTkdtcPzqZ6C8LXsWfvP9oxKjqRSZb2DGtCHedpYU0wlm0joAPuQ0hbzOoqOpjWQ",
+          "persist:primary": "{\"user\":\"{\\\"userDeadline\\\":1200,\\\"tokens\\\":{},\\\"pairs\\\":{},\\\"isExchangeChartDisplayed\\\":false,\\\"isSubgraphHealthIndicatorDisplayed\\\":false,\\\"userFarmStakedOnly\\\":\\\"onFinished\\\",\\\"userPoolStakedOnly\\\":false,\\\"userPoolsViewMode\\\":\\\"TABLE\\\",\\\"userFarmsViewMode\\\":\\\"TABLE\\\",\\\"userPredictionAcceptedRisk\\\":false,\\\"userLimitOrderAcceptedWarning\\\":false,\\\"userPredictionChartDisclaimerShow\\\":true,\\\"userPredictionChainlinkChartDisclaimerShow\\\":true,\\\"userUsernameVisibility\\\":false,\\\"gasPrice\\\":\\\"rpcDefault\\\",\\\"watchlistTokens\\\":[],\\\"watchlistPools\\\":[],\\\"hideTimestampPhishingWarningBanner\\\":null,\\\"lastUpdateVersionTimestamp\\\":1711392974226}\",\"transactions\":\"{\\\"10023\\\":{\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\":{\\\"hash\\\":\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\",\\\"approval\\\":{\\\"tokenAddress\\\":\\\"0x5af9580cb5Cb8231e46d530E1815AaF7bD643Ae1\\\",\\\"spender\\\":\\\"0xB0620E6AbdB387bA2d204Ae152D3eCc9F6539d7d\\\"},\\\"summary\\\":\\\"Approve LCI\\\",\\\"translatableSummary\\\":{\\\"text\\\":\\\"Approve %symbol%\\\",\\\"data\\\":{\\\"symbol\\\":\\\"LCI\\\"}},\\\"from\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"addedTime\\\":1710186627750,\\\"type\\\":\\\"approve\\\",\\\"receipt\\\":{\\\"blockHash\\\":\\\"0xdc69a50c29f27c6a01b997ffc41f52ebca276c3b62e9a4bebee29ebafd950904\\\",\\\"blockNumber\\\":20789,\\\"contractAddress\\\":null,\\\"from\\\":\\\"0x99b869dab7fb18d2a335ae5ca18831c9c89074a0\\\",\\\"status\\\":1,\\\"to\\\":\\\"0x5af9580cb5cb8231e46d530e1815aaf7bd643ae1\\\",\\\"transactionHash\\\":\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\",\\\"transactionIndex\\\":1},\\\"confirmedTime\\\":1710186637996},\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\":{\\\"hash\\\":\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\",\\\"summary\\\":\\\"Add 10 ETH and 100.3 LCI\\\",\\\"from\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"addedTime\\\":1710186674469,\\\"type\\\":\\\"add-liquidity-v3\\\",\\\"receipt\\\":{\\\"blockHash\\\":\\\"0x2bef5c7a660dde8ac972c48ecd5a7a3d8aac42d70a227d1a272ed7f85397783e\\\",\\\"blockNumber\\\":20793,\\\"contractAddress\\\":null,\\\"from\\\":\\\"0x99b869dab7fb18d2a335ae5ca18831c9c89074a0\\\",\\\"status\\\":1,\\\"to\\\":\\\"0xb0620e6abdb387ba2d204ae152d3ecc9f6539d7d\\\",\\\"transactionHash\\\":\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\",\\\"transactionIndex\\\":0},\\\"confirmedTime\\\":1710186688594}}}\",\"notifications\":\"{\\\"notifications\\\":{}}\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}",
+          "wagmi_v1.1.cache": "{\"buster\":\"\",\"timestamp\":1711393053422,\"clientState\":{\"mutations\":[],\"queries\":[{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensName\",\"chainId\":10023}],\"queryHash\":\"[{\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensName\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensAvatar\",\"chainId\":10023}],\"queryHash\":\"[{\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensAvatar\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":{},\"errorUpdateCount\":1,\"errorUpdatedAt\":1711393017079,\"fetchFailureCount\":1,\"fetchFailureReason\":{},\"fetchMeta\":{},\"isInvalidated\":false,\"status\":\"error\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"readContract\",\"args\":[\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\"],\"chainId\":10023,\"functionName\":\"balanceOf\"}],\"queryHash\":\"[{\\\"args\\\":[\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\"],\\\"chainId\\\":10023,\\\"entity\\\":\\\"readContract\\\",\\\"functionName\\\":\\\"balanceOf\\\"}]\"},{\"state\":{\"data\":[],\"dataUpdateCount\":1,\"dataUpdatedAt\":1711393017080,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":{},\"isInvalidated\":false,\"status\":\"success\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"readContracts\",\"allowFailure\":true,\"chainId\":10023,\"contracts\":[]}],\"queryHash\":\"[{\\\"allowFailure\\\":true,\\\"chainId\\\":10023,\\\"contracts\\\":[],\\\"entity\\\":\\\"readContracts\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":{\"metaMessages\":[\"This could be due to any of the following:\",\"- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\"],\"shortMessage\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\",\"name\":\"ChainDoesNotSupportContract\",\"version\":\"viem@1.19.10\",\"message\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\\n\\nThis could be due to any of the following:\\n- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\\n\\nVersion: viem@1.19.10\"},\"errorUpdateCount\":2,\"errorUpdatedAt\":1711393023548,\"fetchFailureCount\":1,\"fetchFailureReason\":{\"metaMessages\":[\"This could be due to any of the following:\",\"- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\"],\"shortMessage\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\",\"name\":\"ChainDoesNotSupportContract\",\"version\":\"viem@1.19.10\",\"message\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\\n\\nThis could be due to any of the following:\\n- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\\n\\nVersion: viem@1.19.10\"},\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"error\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensName\",\"address\":\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\",\"chainId\":10023}],\"queryHash\":\"[{\\\"address\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensName\\\"}]\"}]}}",
+          "wagmi_v1.1.store": "{\"state\":{\"chains\":[{\"id\":10023,\"name\":\"PWR Chain Testnet\",\"network\":\"POWER-TESTNET\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://ethereumplus.pwrlabs.io/\"]},\"public\":{\"http\":[\"https://ethereumplus.pwrlabs.io/\"]}},\"blockExplorers\":{\"default\":{\"name\":\"Pwrlabs\",\"url\":\"https://ethplusexplorer.pwrlabs.io/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x609CCF7C0080495993F6f70e83cE1486b6fe3D19\",\"blockCreated\":0}},\"testnet\":true},{\"id\":80001,\"name\":\"MUMBAI\",\"network\":\"MUMBAI\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://rpc-mumbai.maticvigil.com\"]},\"public\":{\"http\":[\"https://rpc-mumbai.maticvigil.com\"]}},\"blockExplorers\":{\"default\":{\"name\":\"mumbai\",\"url\":\"https://mumbai.polygonscan.com/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x609CCF7C0080495993F6f70e83cE1486b6fe3D19\",\"blockCreated\":0}},\"testnet\":true},{\"id\":3441005,\"name\":\"MANTA_TESTNET\",\"network\":\"MANTA_TESTNET\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://pacific-rpc.testnet.manta.network/http\"]},\"public\":{\"http\":[\"https://pacific-rpc.testnet.manta.network/http\"]}},\"blockExplorers\":{\"default\":{\"name\":\"manta\",\"url\":\"https://pacific-explorer.testnet.manta.network/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x37132496B0Ba8eB28434ecb77bF7F7c268893C35\",\"blockCreated\":0}},\"testnet\":true}]},\"version\":2}",
+          "ally-supports-cache": "{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\",\"version\":\"1.4.1\",\"focusAreaImgTabindex\":false,\"focusAreaTabindex\":false,\"focusAreaWithoutHref\":false,\"focusAudioWithoutControls\":false,\"focusBrokenImageMap\":true,\"focusChildrenOfFocusableFlexbox\":false,\"focusFieldsetDisabled\":true,\"focusFieldset\":false,\"focusFlexboxContainer\":false,\"focusFormDisabled\":true,\"focusImgIsmap\":false,\"focusImgUsemapTabindex\":true,\"focusInHiddenIframe\":true,\"focusInvalidTabindex\":false,\"focusLabelTabindex\":true,\"focusObjectSvg\":true,\"focusObjectSvgHidden\":false,\"focusRedirectImgUsemap\":false,\"focusRedirectLegend\":\"\",\"focusScrollBody\":false,\"focusScrollContainerWithoutOverflow\":false,\"focusScrollContainer\":false,\"focusSummary\":true,\"focusSvgFocusableAttribute\":false,\"focusSvgTabindexAttribute\":true,\"focusSvgNegativeTabindexAttribute\":true,\"focusSvgUseTabindex\":true,\"focusSvgForeignobjectTabindex\":true,\"focusSvg\":false,\"focusTabindexTrailingCharacters\":true,\"focusTable\":false,\"focusVideoWithoutControls\":false,\"cssShadowPiercingDeepCombinator\":\"\",\"focusInZeroDimensionObject\":true,\"focusObjectSwf\":true,\"focusSvgInIframe\":false,\"tabsequenceAreaAtImgPosition\":false,\"time\":\"2024-03-11T08:35:06.873Z\"}",
+          "-walletlink:https://www.walletlink.org:version": "3.7.2",
+          "-walletlink:https://www.walletlink.org:session:id": "d1810f0861be11295fd1e2a78a860357",
+          "-walletlink:https://www.walletlink.org:session:linked": "0",
+          "-walletlink:https://www.walletlink.org:session:secret": "61c85163ea654c9948385970ee38994160e2a554dbf8c94a4012d284cec758ce"
+        },
+        "screenheight": 1080,
+        "pluginsLength": 5,
+        "devicePixelRatio": 1,
+        "isMetaMaskInstalled": true,
+        "screenOrientationType": "landscape-primary",
+        "screenOrientationAngle": 0
+      }
+    },
+    "user_id": 1,
+    "profileHash": "31b4a7b6b8910ef4ea9a11913b8114ad606e58d30bee1faf6f944f2ac503ed62",
+    "ip": "45.126.3.252",
+    "createdAt": "2024-03-25 14:58:30.895-04",
+    "updatedAt": "2024-03-25 14:58:30.895-04",
+    "userId": "NULL"
+  },
+  {
+    "id": 1,
+    "user_name": "0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0",
+    "created_at": "2024-03-25 14:57:52.73-04",
+    "updated_at": "2024-03-25 14:57:52.73-04",
+    "id-2": 141,
+    "jsonData": {
+      "data": {
+        "OS": "Windows NT 4.0|32 bits",
+        "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "cores": 16,
+        "touch": false,
+        "memory": 8,
+        "language": "en-US",
+        "timeZone": 6,
+        "indexedDB": {},
+        "availWidth": 1920,
+        "colorDepth": 24,
+        "uniqueHash": "26b8729860de5a4da17ee943e8c3eea63d6bb41e8dad185361a84923717b7274",
+        "availHeight": 1040,
+        "pluginNames": [
+          "PDF Viewer",
+          "Chrome PDF Viewer",
+          "Chromium PDF Viewer",
+          "Microsoft Edge PDF Viewer",
+          "WebKit built-in PDF"
+        ],
+        "screenWidth": 1920,
+        "localStorage": {
+          "debug": "smart-router:error,smart-router:log",
+          "theme": "light",
+          "WCM_VERSION": "2.6.2",
+          "_grecaptcha": "09AH1nMHIYVWq6_zZb_ZZ2LJAUWhXsczxTS8RzhtaTkdtcPzqZ6C8LXsWfvP9oxKjqRSZb2DGtCHedpYU0wlm0joAPuQ0hbzOoqOpjWQ",
+          "persist:primary": "{\"user\":\"{\\\"userDeadline\\\":1200,\\\"tokens\\\":{},\\\"pairs\\\":{},\\\"isExchangeChartDisplayed\\\":false,\\\"isSubgraphHealthIndicatorDisplayed\\\":false,\\\"userFarmStakedOnly\\\":\\\"onFinished\\\",\\\"userPoolStakedOnly\\\":false,\\\"userPoolsViewMode\\\":\\\"TABLE\\\",\\\"userFarmsViewMode\\\":\\\"TABLE\\\",\\\"userPredictionAcceptedRisk\\\":false,\\\"userLimitOrderAcceptedWarning\\\":false,\\\"userPredictionChartDisclaimerShow\\\":true,\\\"userPredictionChainlinkChartDisclaimerShow\\\":true,\\\"userUsernameVisibility\\\":false,\\\"gasPrice\\\":\\\"rpcDefault\\\",\\\"watchlistTokens\\\":[],\\\"watchlistPools\\\":[],\\\"hideTimestampPhishingWarningBanner\\\":null,\\\"lastUpdateVersionTimestamp\\\":1711392974226}\",\"transactions\":\"{\\\"10023\\\":{\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\":{\\\"hash\\\":\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\",\\\"approval\\\":{\\\"tokenAddress\\\":\\\"0x5af9580cb5Cb8231e46d530E1815AaF7bD643Ae1\\\",\\\"spender\\\":\\\"0xB0620E6AbdB387bA2d204Ae152D3eCc9F6539d7d\\\"},\\\"summary\\\":\\\"Approve LCI\\\",\\\"translatableSummary\\\":{\\\"text\\\":\\\"Approve %symbol%\\\",\\\"data\\\":{\\\"symbol\\\":\\\"LCI\\\"}},\\\"from\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"addedTime\\\":1710186627750,\\\"type\\\":\\\"approve\\\",\\\"receipt\\\":{\\\"blockHash\\\":\\\"0xdc69a50c29f27c6a01b997ffc41f52ebca276c3b62e9a4bebee29ebafd950904\\\",\\\"blockNumber\\\":20789,\\\"contractAddress\\\":null,\\\"from\\\":\\\"0x99b869dab7fb18d2a335ae5ca18831c9c89074a0\\\",\\\"status\\\":1,\\\"to\\\":\\\"0x5af9580cb5cb8231e46d530e1815aaf7bd643ae1\\\",\\\"transactionHash\\\":\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\",\\\"transactionIndex\\\":1},\\\"confirmedTime\\\":1710186637996},\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\":{\\\"hash\\\":\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\",\\\"summary\\\":\\\"Add 10 ETH and 100.3 LCI\\\",\\\"from\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"addedTime\\\":1710186674469,\\\"type\\\":\\\"add-liquidity-v3\\\",\\\"receipt\\\":{\\\"blockHash\\\":\\\"0x2bef5c7a660dde8ac972c48ecd5a7a3d8aac42d70a227d1a272ed7f85397783e\\\",\\\"blockNumber\\\":20793,\\\"contractAddress\\\":null,\\\"from\\\":\\\"0x99b869dab7fb18d2a335ae5ca18831c9c89074a0\\\",\\\"status\\\":1,\\\"to\\\":\\\"0xb0620e6abdb387ba2d204ae152d3ecc9f6539d7d\\\",\\\"transactionHash\\\":\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\",\\\"transactionIndex\\\":0},\\\"confirmedTime\\\":1710186688594}}}\",\"notifications\":\"{\\\"notifications\\\":{}}\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}",
+          "wagmi_v1.1.cache": "{\"buster\":\"\",\"timestamp\":1711392999840,\"clientState\":{\"mutations\":[],\"queries\":[{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensName\",\"chainId\":10023}],\"queryHash\":\"[{\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensName\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensAvatar\",\"chainId\":10023}],\"queryHash\":\"[{\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensAvatar\\\"}]\"}]}}",
+          "wagmi_v1.1.store": "{\"state\":{\"chains\":[{\"id\":10023,\"name\":\"PWR Chain Testnet\",\"network\":\"POWER-TESTNET\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://ethereumplus.pwrlabs.io/\"]},\"public\":{\"http\":[\"https://ethereumplus.pwrlabs.io/\"]}},\"blockExplorers\":{\"default\":{\"name\":\"Pwrlabs\",\"url\":\"https://ethplusexplorer.pwrlabs.io/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x609CCF7C0080495993F6f70e83cE1486b6fe3D19\",\"blockCreated\":0}},\"testnet\":true},{\"id\":80001,\"name\":\"MUMBAI\",\"network\":\"MUMBAI\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://rpc-mumbai.maticvigil.com\"]},\"public\":{\"http\":[\"https://rpc-mumbai.maticvigil.com\"]}},\"blockExplorers\":{\"default\":{\"name\":\"mumbai\",\"url\":\"https://mumbai.polygonscan.com/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x609CCF7C0080495993F6f70e83cE1486b6fe3D19\",\"blockCreated\":0}},\"testnet\":true},{\"id\":3441005,\"name\":\"MANTA_TESTNET\",\"network\":\"MANTA_TESTNET\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://pacific-rpc.testnet.manta.network/http\"]},\"public\":{\"http\":[\"https://pacific-rpc.testnet.manta.network/http\"]}},\"blockExplorers\":{\"default\":{\"name\":\"manta\",\"url\":\"https://pacific-explorer.testnet.manta.network/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x37132496B0Ba8eB28434ecb77bF7F7c268893C35\",\"blockCreated\":0}},\"testnet\":true}]},\"version\":2}",
+          "ally-supports-cache": "{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\",\"version\":\"1.4.1\",\"focusAreaImgTabindex\":false,\"focusAreaTabindex\":false,\"focusAreaWithoutHref\":false,\"focusAudioWithoutControls\":false,\"focusBrokenImageMap\":true,\"focusChildrenOfFocusableFlexbox\":false,\"focusFieldsetDisabled\":true,\"focusFieldset\":false,\"focusFlexboxContainer\":false,\"focusFormDisabled\":true,\"focusImgIsmap\":false,\"focusImgUsemapTabindex\":true,\"focusInHiddenIframe\":true,\"focusInvalidTabindex\":false,\"focusLabelTabindex\":true,\"focusObjectSvg\":true,\"focusObjectSvgHidden\":false,\"focusRedirectImgUsemap\":false,\"focusRedirectLegend\":\"\",\"focusScrollBody\":false,\"focusScrollContainerWithoutOverflow\":false,\"focusScrollContainer\":false,\"focusSummary\":true,\"focusSvgFocusableAttribute\":false,\"focusSvgTabindexAttribute\":true,\"focusSvgNegativeTabindexAttribute\":true,\"focusSvgUseTabindex\":true,\"focusSvgForeignobjectTabindex\":true,\"focusSvg\":false,\"focusTabindexTrailingCharacters\":true,\"focusTable\":false,\"focusVideoWithoutControls\":false,\"cssShadowPiercingDeepCombinator\":\"\",\"focusInZeroDimensionObject\":true,\"focusObjectSwf\":true,\"focusSvgInIframe\":false,\"tabsequenceAreaAtImgPosition\":false,\"time\":\"2024-03-11T08:35:06.873Z\"}",
+          "-walletlink:https://www.walletlink.org:version": "3.7.2",
+          "-walletlink:https://www.walletlink.org:session:id": "d1810f0861be11295fd1e2a78a860357",
+          "-walletlink:https://www.walletlink.org:session:linked": "0",
+          "-walletlink:https://www.walletlink.org:session:secret": "61c85163ea654c9948385970ee38994160e2a554dbf8c94a4012d284cec758ce"
+        },
+        "screenheight": 1080,
+        "pluginsLength": 5,
+        "devicePixelRatio": 1,
+        "isMetaMaskInstalled": true,
+        "screenOrientationType": "landscape-primary",
+        "screenOrientationAngle": 0
+      }
+    },
+    "user_id": 1,
+    "profileHash": "6ec826bf121a8511b68aa3f8762d8c70a2023744bbdb009f54ba8acd09f08cb2",
+    "ip": "45.126.3.252",
+    "createdAt": "2024-03-25 14:57:52.775-04",
+    "updatedAt": "2024-03-25 14:57:52.775-04",
+    "userId": "NULL"
+  },
+  {
+    "id": 1,
+    "user_name": "0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0",
+    "created_at": "2024-03-25 14:57:52.73-04",
+    "updated_at": "2024-03-25 14:57:52.73-04",
+    "id-2": 142,
+    "jsonData": {
+      "data": {
+        "OS": "Windows NT 4.0|32 bits",
+        "agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "cores": 16,
+        "touch": false,
+        "memory": 8,
+        "language": "en-US",
+        "timeZone": 6,
+        "indexedDB": {},
+        "availWidth": 1920,
+        "colorDepth": 24,
+        "uniqueHash": "26b8729860de5a4da17ee943e8c3eea63d6bb41e8dad185361a84923717b7274",
+        "availHeight": 1040,
+        "pluginNames": [
+          "PDF Viewer",
+          "Chrome PDF Viewer",
+          "Chromium PDF Viewer",
+          "Microsoft Edge PDF Viewer",
+          "WebKit built-in PDF"
+        ],
+        "screenWidth": 1920,
+        "localStorage": {
+          "debug": "smart-router:error,smart-router:log",
+          "theme": "light",
+          "WCM_VERSION": "2.6.2",
+          "_grecaptcha": "09AH1nMHIYVWq6_zZb_ZZ2LJAUWhXsczxTS8RzhtaTkdtcPzqZ6C8LXsWfvP9oxKjqRSZb2DGtCHedpYU0wlm0joAPuQ0hbzOoqOpjWQ",
+          "persist:primary": "{\"user\":\"{\\\"userDeadline\\\":1200,\\\"tokens\\\":{},\\\"pairs\\\":{},\\\"isExchangeChartDisplayed\\\":false,\\\"isSubgraphHealthIndicatorDisplayed\\\":false,\\\"userFarmStakedOnly\\\":\\\"onFinished\\\",\\\"userPoolStakedOnly\\\":false,\\\"userPoolsViewMode\\\":\\\"TABLE\\\",\\\"userFarmsViewMode\\\":\\\"TABLE\\\",\\\"userPredictionAcceptedRisk\\\":false,\\\"userLimitOrderAcceptedWarning\\\":false,\\\"userPredictionChartDisclaimerShow\\\":true,\\\"userPredictionChainlinkChartDisclaimerShow\\\":true,\\\"userUsernameVisibility\\\":false,\\\"gasPrice\\\":\\\"rpcDefault\\\",\\\"watchlistTokens\\\":[],\\\"watchlistPools\\\":[],\\\"hideTimestampPhishingWarningBanner\\\":null,\\\"lastUpdateVersionTimestamp\\\":1711392974226}\",\"transactions\":\"{\\\"10023\\\":{\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\":{\\\"hash\\\":\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\",\\\"approval\\\":{\\\"tokenAddress\\\":\\\"0x5af9580cb5Cb8231e46d530E1815AaF7bD643Ae1\\\",\\\"spender\\\":\\\"0xB0620E6AbdB387bA2d204Ae152D3eCc9F6539d7d\\\"},\\\"summary\\\":\\\"Approve LCI\\\",\\\"translatableSummary\\\":{\\\"text\\\":\\\"Approve %symbol%\\\",\\\"data\\\":{\\\"symbol\\\":\\\"LCI\\\"}},\\\"from\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"addedTime\\\":1710186627750,\\\"type\\\":\\\"approve\\\",\\\"receipt\\\":{\\\"blockHash\\\":\\\"0xdc69a50c29f27c6a01b997ffc41f52ebca276c3b62e9a4bebee29ebafd950904\\\",\\\"blockNumber\\\":20789,\\\"contractAddress\\\":null,\\\"from\\\":\\\"0x99b869dab7fb18d2a335ae5ca18831c9c89074a0\\\",\\\"status\\\":1,\\\"to\\\":\\\"0x5af9580cb5cb8231e46d530e1815aaf7bd643ae1\\\",\\\"transactionHash\\\":\\\"0x7ca2fe93ce97955eefe033c8f28a56150b2e68e1ea747b8f23c054fbed643319\\\",\\\"transactionIndex\\\":1},\\\"confirmedTime\\\":1710186637996},\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\":{\\\"hash\\\":\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\",\\\"summary\\\":\\\"Add 10 ETH and 100.3 LCI\\\",\\\"from\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"addedTime\\\":1710186674469,\\\"type\\\":\\\"add-liquidity-v3\\\",\\\"receipt\\\":{\\\"blockHash\\\":\\\"0x2bef5c7a660dde8ac972c48ecd5a7a3d8aac42d70a227d1a272ed7f85397783e\\\",\\\"blockNumber\\\":20793,\\\"contractAddress\\\":null,\\\"from\\\":\\\"0x99b869dab7fb18d2a335ae5ca18831c9c89074a0\\\",\\\"status\\\":1,\\\"to\\\":\\\"0xb0620e6abdb387ba2d204ae152d3ecc9f6539d7d\\\",\\\"transactionHash\\\":\\\"0x86eeb335d32798fc5beff98972ae91516f8c2b80d8add23cad3686d1673eb3ee\\\",\\\"transactionIndex\\\":0},\\\"confirmedTime\\\":1710186688594}}}\",\"notifications\":\"{\\\"notifications\\\":{}}\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}",
+          "wagmi_v1.1.cache": "{\"buster\":\"\",\"timestamp\":1711393017242,\"clientState\":{\"mutations\":[],\"queries\":[{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensName\",\"chainId\":10023}],\"queryHash\":\"[{\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensName\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"loading\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensAvatar\",\"chainId\":10023}],\"queryHash\":\"[{\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensAvatar\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":{},\"errorUpdateCount\":1,\"errorUpdatedAt\":1711393017079,\"fetchFailureCount\":1,\"fetchFailureReason\":{},\"fetchMeta\":{},\"isInvalidated\":false,\"status\":\"error\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"readContract\",\"args\":[\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\"],\"chainId\":10023,\"functionName\":\"balanceOf\"}],\"queryHash\":\"[{\\\"args\\\":[\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\"],\\\"chainId\\\":10023,\\\"entity\\\":\\\"readContract\\\",\\\"functionName\\\":\\\"balanceOf\\\"}]\"},{\"state\":{\"data\":[],\"dataUpdateCount\":1,\"dataUpdatedAt\":1711393017080,\"error\":null,\"errorUpdateCount\":0,\"errorUpdatedAt\":0,\"fetchFailureCount\":0,\"fetchFailureReason\":null,\"fetchMeta\":{},\"isInvalidated\":false,\"status\":\"success\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"readContracts\",\"allowFailure\":true,\"chainId\":10023,\"contracts\":[]}],\"queryHash\":\"[{\\\"allowFailure\\\":true,\\\"chainId\\\":10023,\\\"contracts\\\":[],\\\"entity\\\":\\\"readContracts\\\"}]\"},{\"state\":{\"dataUpdateCount\":0,\"dataUpdatedAt\":0,\"error\":{\"metaMessages\":[\"This could be due to any of the following:\",\"- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\"],\"shortMessage\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\",\"name\":\"ChainDoesNotSupportContract\",\"version\":\"viem@1.19.10\",\"message\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\\n\\nThis could be due to any of the following:\\n- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\\n\\nVersion: viem@1.19.10\"},\"errorUpdateCount\":1,\"errorUpdatedAt\":1711393017080,\"fetchFailureCount\":1,\"fetchFailureReason\":{\"metaMessages\":[\"This could be due to any of the following:\",\"- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\"],\"shortMessage\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\",\"name\":\"ChainDoesNotSupportContract\",\"version\":\"viem@1.19.10\",\"message\":\"Chain \\\"PWR Chain Testnet\\\" does not support contract \\\"ensUniversalResolver\\\".\\n\\nThis could be due to any of the following:\\n- The chain does not have the contract \\\"ensUniversalResolver\\\" configured.\\n\\nVersion: viem@1.19.10\"},\"fetchMeta\":null,\"isInvalidated\":false,\"status\":\"error\",\"fetchStatus\":\"idle\"},\"queryKey\":[{\"entity\":\"ensName\",\"address\":\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\",\"chainId\":10023}],\"queryHash\":\"[{\\\"address\\\":\\\"0x99b869dAb7FB18D2a335Ae5cA18831C9C89074a0\\\",\\\"chainId\\\":10023,\\\"entity\\\":\\\"ensName\\\"}]\"}]}}",
+          "wagmi_v1.1.store": "{\"state\":{\"chains\":[{\"id\":10023,\"name\":\"PWR Chain Testnet\",\"network\":\"POWER-TESTNET\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://ethereumplus.pwrlabs.io/\"]},\"public\":{\"http\":[\"https://ethereumplus.pwrlabs.io/\"]}},\"blockExplorers\":{\"default\":{\"name\":\"Pwrlabs\",\"url\":\"https://ethplusexplorer.pwrlabs.io/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x609CCF7C0080495993F6f70e83cE1486b6fe3D19\",\"blockCreated\":0}},\"testnet\":true},{\"id\":80001,\"name\":\"MUMBAI\",\"network\":\"MUMBAI\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://rpc-mumbai.maticvigil.com\"]},\"public\":{\"http\":[\"https://rpc-mumbai.maticvigil.com\"]}},\"blockExplorers\":{\"default\":{\"name\":\"mumbai\",\"url\":\"https://mumbai.polygonscan.com/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x609CCF7C0080495993F6f70e83cE1486b6fe3D19\",\"blockCreated\":0}},\"testnet\":true},{\"id\":3441005,\"name\":\"MANTA_TESTNET\",\"network\":\"MANTA_TESTNET\",\"nativeCurrency\":{\"name\":\"Ether\",\"symbol\":\"ETH\",\"decimals\":18},\"rpcUrls\":{\"default\":{\"http\":[\"https://pacific-rpc.testnet.manta.network/http\"]},\"public\":{\"http\":[\"https://pacific-rpc.testnet.manta.network/http\"]}},\"blockExplorers\":{\"default\":{\"name\":\"manta\",\"url\":\"https://pacific-explorer.testnet.manta.network/\"}},\"contracts\":{\"multicall3\":{\"address\":\"0x37132496B0Ba8eB28434ecb77bF7F7c268893C35\",\"blockCreated\":0}},\"testnet\":true}]},\"version\":2}",
+          "ally-supports-cache": "{\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\",\"version\":\"1.4.1\",\"focusAreaImgTabindex\":false,\"focusAreaTabindex\":false,\"focusAreaWithoutHref\":false,\"focusAudioWithoutControls\":false,\"focusBrokenImageMap\":true,\"focusChildrenOfFocusableFlexbox\":false,\"focusFieldsetDisabled\":true,\"focusFieldset\":false,\"focusFlexboxContainer\":false,\"focusFormDisabled\":true,\"focusImgIsmap\":false,\"focusImgUsemapTabindex\":true,\"focusInHiddenIframe\":true,\"focusInvalidTabindex\":false,\"focusLabelTabindex\":true,\"focusObjectSvg\":true,\"focusObjectSvgHidden\":false,\"focusRedirectImgUsemap\":false,\"focusRedirectLegend\":\"\",\"focusScrollBody\":false,\"focusScrollContainerWithoutOverflow\":false,\"focusScrollContainer\":false,\"focusSummary\":true,\"focusSvgFocusableAttribute\":false,\"focusSvgTabindexAttribute\":true,\"focusSvgNegativeTabindexAttribute\":true,\"focusSvgUseTabindex\":true,\"focusSvgForeignobjectTabindex\":true,\"focusSvg\":false,\"focusTabindexTrailingCharacters\":true,\"focusTable\":false,\"focusVideoWithoutControls\":false,\"cssShadowPiercingDeepCombinator\":\"\",\"focusInZeroDimensionObject\":true,\"focusObjectSwf\":true,\"focusSvgInIframe\":false,\"tabsequenceAreaAtImgPosition\":false,\"time\":\"2024-03-11T08:35:06.873Z\"}",
+          "-walletlink:https://www.walletlink.org:version": "3.7.2",
+          "-walletlink:https://www.walletlink.org:session:id": "d1810f0861be11295fd1e2a78a860357",
+          "-walletlink:https://www.walletlink.org:session:linked": "0",
+          "-walletlink:https://www.walletlink.org:session:secret": "61c85163ea654c9948385970ee38994160e2a554dbf8c94a4012d284cec758ce"
+        },
+        "screenheight": 1080,
+        "pluginsLength": 5,
+        "devicePixelRatio": 1,
+        "isMetaMaskInstalled": true,
+        "screenOrientationType": "landscape-primary",
+        "screenOrientationAngle": 0
+      }
+    },
+    "user_id": 1,
+    "profileHash": "48f12429afce4621d4406eba2a2d0ee155b61c6aa73d4992806556614ba21898",
+    "ip": "45.126.3.252",
+    "createdAt": "2024-03-25 14:57:57.922-04",
+    "updatedAt": "2024-03-25 14:57:57.922-04",
+    "userId": "NULL"
+  }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "description": "test",
+        "platform": "Telegram",
+        "generated_link_id": "1234567890",
+        "client_id": "1234567890",
+        "created_at": "2021-06-01T00:00:00.000Z",
+        "updated_at": "2021-06-01T00:00:00.000Z",
+        "clientId": "1234567890",
+        "generated_link": {
+            "id": 1,
+            "link": "https://t.me/1234567890",
+            "target": "https://t.me/1234567890",
+            "alias": "1234567890",
+            "client_id": "1234567890",
+            "num_clicks": 0,
+            "created_at": "2021-06-01T00:00:00.000Z",
+            "updated_at": "2021-06-01T00:00:00.000Z",
+            "clientId": "1234567890"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "description": "example",
+        "platform": "Facebook",
+        "generated_link_id": "0987654321",
+        "client_id": "0987654321",
+        "created_at": "2021-06-02T00:00:00.000Z",
+        "updated_at": "2021-06-02T00:00:00.000Z",
+        "clientId": "0987654321",
+        "generated_link": {
+            "id": 2,
+            "link": "https://www.facebook.com/0987654321",
+            "target": "https://www.facebook.com/0987654321",
+            "alias": "0987654321",
+            "client_id": "0987654321",
+            "num_clicks": 0,
+            "created_at": "2021-06-02T00:00:00.000Z",
+            "updated_at": "2021-06-02T00:00:00.000Z",
+            "clientId": "0987654321"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "description": "sample",
+        "platform": "Twitter",
+        "generated_link_id": "5678901234",
+        "client_id": "5678901234",
+        "created_at": "2021-06-03T00:00:00.000Z",
+        "updated_at": "2021-06-03T00:00:00.000Z",
+        "clientId": "5678901234",
+        "generated_link": {
+            "id": 3,
+            "link": "https://twitter.com/5678901234",
+            "target": "https://twitter.com/5678901234",
+            "alias": "5678901234",
+            "client_id": "5678901234",
+            "num_clicks": 0,
+            "created_at": "2021-06-03T00:00:00.000Z",
+            "updated_at": "2021-06-03T00:00:00.000Z",
+            "clientId": "5678901234"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Bob Williams",
+        "description": "demo",
+        "platform": "Discord",
+        "generated_link_id": "4321098765",
+        "client_id": "4321098765",
+        "created_at": "2021-06-04T00:00:00.000Z",
+        "updated_at": "2021-06-04T00:00:00.000Z",
+        "clientId": "4321098765",
+        "generated_link": {
+            "id": 4,
+            "link": "https://www.instagram.com/4321098765",
+            "target": "https://www.instagram.com/4321098765",
+            "alias": "4321098765",
+            "client_id": "4321098765",
+            "num_clicks": 0,
+            "created_at": "2021-06-04T00:00:00.000Z",
+            "updated_at": "2021-06-04T00:00:00.000Z",
+            "clientId": "4321098765"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Sarah Davis",
+        "description": "sample",
+        "platform": "LinkedIn",
+        "generated_link_id": "9876543210",
+        "client_id": "9876543210",
+        "created_at": "2021-06-05T00:00:00.000Z",
+        "updated_at": "2021-06-05T00:00:00.000Z",
+        "clientId": "9876543210",
+        "generated_link": {
+            "id": 5,
+            "link": "https://www.linkedin.com/9876543210",
+            "target": "https://www.linkedin.com/9876543210",
+            "alias": "9876543210",
+            "client_id": "9876543210",
+            "num_clicks": 0,
+            "created_at": "2021-06-05T00:00:00.000Z",
+            "updated_at": "2021-06-05T00:00:00.000Z",
+            "clientId": "9876543210"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Michael Brown",
+        "description": "test",
+        "platform": "Google Ads",
+        "generated_link_id": "2468135790",
+        "client_id": "2468135790",
+        "created_at": "2021-06-06T00:00:00.000Z",
+        "updated_at": "2021-06-06T00:00:00.000Z",
+        "clientId": "2468135790",
+        "generated_link": {
+            "id": 6,
+            "link": "https://t.me/2468135790",
+            "target": "https://t.me/2468135790",
+            "alias": "2468135790",
+            "client_id": "2468135790",
+            "num_clicks": 0,
+            "created_at": "2021-06-06T00:00:00.000Z",
+            "updated_at": "2021-06-06T00:00:00.000Z",
+            "clientId": "2468135790"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Emily Wilson",
+        "description": "example",
+        "platform": "Facebook",
+        "generated_link_id": "7654321098",
+        "client_id": "7654321098",
+        "created_at": "2021-06-07T00:00:00.000Z",
+        "updated_at": "2021-06-07T00:00:00.000Z",
+        "clientId": "7654321098",
+        "generated_link": {
+            "id": 7,
+            "link": "https://www.facebook.com/7654321098",
+            "target": "https://www.facebook.com/7654321098",
+            "alias": "7654321098",
+            "client_id": "7654321098",
+            "num_clicks": 0,
+            "created_at": "2021-06-07T00:00:00.000Z",
+            "updated_at": "2021-06-07T00:00:00.000Z",
+            "clientId": "7654321098"
+        }
+    },
+    {
+        "id": 8,
+        "name": "David Taylor",
+        "description": "sample",
+        "platform": "Twitter",
+        "generated_link_id": "3210987654",
+        "client_id": "3210987654",
+        "created_at": "2021-06-08T00:00:00.000Z",
+        "updated_at": "2021-06-08T00:00:00.000Z",
+        "clientId": "3210987654",
+        "generated_link": {
+            "id": 8,
+            "link": "https://twitter.com/3210987654",
+            "target": "https://twitter.com/3210987654",
+            "alias": "3210987654",
+            "client_id": "3210987654",
+            "num_clicks": 0,
+            "created_at": "2021-06-08T00:00:00.000Z",
+            "updated_at": "2021-06-08T00:00:00.000Z",
+            "clientId": "3210987654"
+        }
+    }
+]

@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 95,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 45,
+    "created_at": "2024-03-07 14:14:13.659-05",
+    "updated_at": "2024-03-07 14:14:13.659-05"
+  },
+  {
+    "id": 96,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 41,
+    "created_at": "2024-03-07 14:15:08.066-05",
+    "updated_at": "2024-03-07 14:15:08.066-05"
+  },
+  {
+    "id": 97,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 41,
+    "created_at": "2024-03-07 14:15:39.662-05",
+    "updated_at": "2024-03-07 14:15:39.662-05"
+  },
+  {
+    "id": 98,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 41,
+    "created_at": "2024-03-07 14:16:20.636-05",
+    "updated_at": "2024-03-07 14:16:20.636-05"
+  },
+  {
+    "id": 99,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:17:31.693-05",
+    "updated_at": "2024-03-07 14:17:31.693-05"
+  },
+  {
+    "id": 100,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:17:40.323-05",
+    "updated_at": "2024-03-07 14:17:40.323-05"
+  },
+  {
+    "id": 101,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:17:49.73-05",
+    "updated_at": "2024-03-07 14:17:49.73-05"
+  },
+  {
+    "id": 102,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 48,
+    "created_at": "2024-03-07 14:34:24.719-05",
+    "updated_at": "2024-03-07 14:34:24.719-05"
+  },
+  {
+    "id": 103,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 49,
+    "created_at": "2024-03-07 14:35:09.676-05",
+    "updated_at": "2024-03-07 14:35:09.676-05"
+  },
+  {
+    "id": 104,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 43,
+    "created_at": "2024-03-07 15:13:11.599-05",
+    "updated_at": "2024-03-07 15:13:11.599-05"
+  },
+  {
+    "id": 105,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 43,
+    "created_at": "2024-03-07 15:13:19.483-05",
+    "updated_at": "2024-03-07 15:13:19.483-05"
+  },
+  {
+    "id": 106,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 43,
+    "created_at": "2024-03-07 15:13:25.977-05",
+    "updated_at": "2024-03-07 15:13:25.977-05"
+  },
+  {
+    "id": 107,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 52,
+    "created_at": "2024-03-07 15:14:24.697-05",
+    "updated_at": "2024-03-07 15:14:24.697-05"
+  },
+  {
+    "id": 108,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 53,
+    "created_at": "2024-03-07 16:06:07.386-05",
+    "updated_at": "2024-03-07 16:06:07.386-05"
+  },
+  {
+    "id": 109,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:08:36.933-05",
+    "updated_at": "2024-03-07 20:08:36.933-05"
+  },
+  {
+    "id": 110,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:09:43.586-05",
+    "updated_at": "2024-03-07 20:09:43.586-05"
+  },
+  {
+    "id": 111,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:10:36.304-05",
+    "updated_at": "2024-03-07 20:10:36.304-05"
+  },
+  {
+    "id": 112,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:16:51.097-05",
+    "updated_at": "2024-03-07 20:16:51.097-05"
+  },
+  {
+    "id": 113,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 55,
+    "created_at": "2024-03-07 20:49:08.451-05",
+    "updated_at": "2024-03-07 20:49:08.451-05"
+  },
+  {
+    "id": 114,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 49,
+    "created_at": "2024-03-07 21:17:45.625-05",
+    "updated_at": "2024-03-07 21:17:45.625-05"
+  },
+  {
+    "id": 115,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 56,
+    "created_at": "2024-03-07 22:05:37.078-05",
+    "updated_at": "2024-03-07 22:05:37.078-05"
+  },
+  {
+    "id": 116,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 58,
+    "created_at": "2024-03-07 22:05:51.597-05",
+    "updated_at": "2024-03-07 22:05:51.597-05"
+  },
+  {
+    "id": 117,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 56,
+    "created_at": "2024-03-07 22:06:15.839-05",
+    "updated_at": "2024-03-07 22:06:15.839-05"
+  },
+  {
+    "id": 118,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 56,
+    "created_at": "2024-03-07 22:06:28.538-05",
+    "updated_at": "2024-03-07 22:06:28.538-05"
+  },
+  {
+    "id": 119,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 49,
+    "created_at": "2024-03-08 01:15:43.661-05",
+    "updated_at": "2024-03-08 01:15:43.661-05"
+  },
+  {
+    "id": 120,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 59,
+    "created_at": "2024-03-08 06:38:31.237-05",
+    "updated_at": "2024-03-08 06:38:31.237-05"
+  },
+  {
+    "id": 121,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 60,
+    "created_at": "2024-03-08 07:30:21.811-05",
+    "updated_at": "2024-03-08 07:30:21.811-05"
+  },
+  {
+    "id": 122,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 61,
+    "created_at": "2024-03-08 07:35:03.223-05",
+    "updated_at": "2024-03-08 07:35:03.223-05"
+  },
+  {
+    "id": 123,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 62,
+    "created_at": "2024-03-08 07:36:18.533-05",
+    "updated_at": "2024-03-08 07:36:18.533-05"
+  },
+  {
+    "id": 124,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 61,
+    "created_at": "2024-03-08 07:59:31.913-05",
+    "updated_at": "2024-03-08 07:59:31.913-05"
+  },
+  {
+    "id": 125,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 63,
+    "created_at": "2024-03-08 08:04:56.505-05",
+    "updated_at": "2024-03-08 08:04:56.505-05"
+  },
+  {
+    "id": 126,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 63,
+    "created_at": "2024-03-08 08:15:32.676-05",
+    "updated_at": "2024-03-08 08:15:32.676-05"
+  },
+  {
+    "id": 127,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 63,
+    "created_at": "2024-03-08 08:17:15.65-05",
+    "updated_at": "2024-03-08 08:17:15.65-05"
+  },
+  {
+    "id": 128,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 64,
+    "created_at": "2024-03-08 09:40:00.452-05",
+    "updated_at": "2024-03-08 09:40:00.452-05"
+  },
+  {
+    "id": 129,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 65,
+    "created_at": "2024-03-08 09:40:31.793-05",
+    "updated_at": "2024-03-08 09:40:31.793-05"
+  },
+  {
+    "id": 130,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 66,
+    "created_at": "2024-03-08 10:02:35.16-05",
+    "updated_at": "2024-03-08 10:02:35.16-05"
+  },
+  {
+    "id": 131,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 67,
+    "created_at": "2024-03-08 11:36:37.724-05",
+    "updated_at": "2024-03-08 11:36:37.724-05"
+  },
+  {
+    "id": 132,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 68,
+    "created_at": "2024-03-11 14:48:35.955-04",
+    "updated_at": "2024-03-11 14:48:35.955-04"
+  },
+  {
+    "id": 133,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 69,
+    "created_at": "2024-03-12 11:39:54.018-04",
+    "updated_at": "2024-03-12 11:39:54.018-04"
+  },
+  {
+    "id": 134,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 70,
+    "created_at": "2024-03-12 11:48:38.453-04",
+    "updated_at": "2024-03-12 11:48:38.453-04"
+  },
+  {
+    "id": 135,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 72,
+    "created_at": "2024-03-12 13:59:44.77-04",
+    "updated_at": "2024-03-12 13:59:44.77-04"
+  },
+  {
+    "id": 136,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 73,
+    "created_at": "2024-03-12 13:59:53.172-04",
+    "updated_at": "2024-03-12 13:59:53.172-04"
+  },
+  {
+    "id": 137,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 74,
+    "created_at": "2024-03-12 14:01:04.781-04",
+    "updated_at": "2024-03-12 14:01:04.781-04"
+  },
+  {
+    "id": 138,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 72,
+    "created_at": "2024-03-12 14:01:29.998-04",
+    "updated_at": "2024-03-12 14:01:29.998-04"
+  },
+  {
+    "id": 139,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 75,
+    "created_at": "2024-03-12 14:24:53.798-04",
+    "updated_at": "2024-03-12 14:24:53.798-04"
+  },
+  {
+    "id": 140,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 76,
+    "created_at": "2024-03-12 17:39:53.79-04",
+    "updated_at": "2024-03-12 17:39:53.79-04"
+  },
+  {
+    "id": 141,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 77,
+    "created_at": "2024-03-12 18:22:58.786-04",
+    "updated_at": "2024-03-12 18:22:58.786-04"
+  },
+  {
+    "id": 142,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 75,
+    "created_at": "2024-03-13 11:26:27.768-04",
+    "updated_at": "2024-03-13 11:26:27.768-04"
+  },
+  {
+    "id": 143,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 78,
+    "created_at": "2024-03-13 12:40:18.61-04",
+    "updated_at": "2024-03-13 12:40:18.61-04"
+  },
+  {
+    "id": 144,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 79,
+    "created_at": "2024-03-13 15:21:02.075-04",
+    "updated_at": "2024-03-13 15:21:02.075-04"
+  },
+  {
+    "id": 145,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 53,
+    "created_at": "2024-03-13 15:59:12.029-04",
+    "updated_at": "2024-03-13 15:59:12.029-04"
+  },
+  {
+    "id": 146,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 80,
+    "created_at": "2024-03-13 17:26:27.808-04",
+    "updated_at": "2024-03-13 17:26:27.808-04"
+  },
+  {
+    "id": 147,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 81,
+    "created_at": "2024-03-13 18:35:20.662-04",
+    "updated_at": "2024-03-13 18:35:20.662-04"
+  },
+  {
+    "id": 148,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 82,
+    "created_at": "2024-03-13 19:34:48.808-04",
+    "updated_at": "2024-03-13 19:34:48.808-04"
+  },
+  {
+    "id": 149,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 83,
+    "created_at": "2024-03-13 23:15:00.986-04",
+    "updated_at": "2024-03-13 23:15:00.986-04"
+  },
+  {
+    "id": 150,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:09:46.094-04",
+    "updated_at": "2024-03-14 11:09:46.094-04"
+  },
+  {
+    "id": 151,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:10:14.583-04",
+    "updated_at": "2024-03-14 11:10:14.583-04"
+  },
+  {
+    "id": 152,
+    "client_id": 1,
+    "page": "Blogs",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:12:38.048-04",
+    "updated_at": "2024-03-14 11:12:38.048-04"
+  },
+  {
+    "id": 153,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:12:39.412-04",
+    "updated_at": "2024-03-14 11:12:39.412-04"
+  },
+  {
+    "id": 154,
+    "client_id": 1,
+    "page": "Blogs",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 85,
+    "created_at": "2024-03-14 11:22:07.282-04",
+    "updated_at": "2024-03-14 11:22:07.282-04"
+  },
+  {
+    "id": 155,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 87,
+    "created_at": "2024-03-14 14:02:14.658-04",
+    "updated_at": "2024-03-14 14:02:14.658-04"
+  },
+  {
+    "id": 156,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 88,
+    "created_at": "2024-03-14 15:20:17.66-04",
+    "updated_at": "2024-03-14 15:20:17.66-04"
+  },
+  {
+    "id": 157,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-14 19:06:50.114-04",
+    "updated_at": "2024-03-14 19:06:50.114-04"
+  },
+  {
+    "id": 158,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 90,
+    "created_at": "2024-03-14 21:18:59.416-04",
+    "updated_at": "2024-03-14 21:18:59.416-04"
+  },
+  {
+    "id": 159,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 75,
+    "created_at": "2024-03-14 22:45:43.944-04",
+    "updated_at": "2024-03-14 22:45:43.944-04"
+  },
+  {
+    "id": 160,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 75,
+    "created_at": "2024-03-14 23:01:57.215-04",
+    "updated_at": "2024-03-14 23:01:57.215-04"
+  },
+  {
+    "id": 161,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 70,
+    "created_at": "2024-03-15 01:48:50.275-04",
+    "updated_at": "2024-03-15 01:48:50.275-04"
+  },
+  {
+    "id": 162,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-15 02:55:07.58-04",
+    "updated_at": "2024-03-15 02:55:07.58-04"
+  },
+  {
+    "id": 163,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 91,
+    "created_at": "2024-03-15 09:51:03.232-04",
+    "updated_at": "2024-03-15 09:51:03.232-04"
+  },
+  {
+    "id": 164,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 91,
+    "created_at": "2024-03-15 09:51:06.619-04",
+    "updated_at": "2024-03-15 09:51:06.619-04"
+  },
+  {
+    "id": 165,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 92,
+    "created_at": "2024-03-15 09:58:16.003-04",
+    "updated_at": "2024-03-15 09:58:16.003-04"
+  },
+  {
+    "id": 166,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 93,
+    "created_at": "2024-03-15 11:49:35.545-04",
+    "updated_at": "2024-03-15 11:49:35.545-04"
+  },
+  {
+    "id": 167,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 94,
+    "created_at": "2024-03-15 15:21:40.753-04",
+    "updated_at": "2024-03-15 15:21:40.753-04"
+  },
+  {
+    "id": 168,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 95,
+    "created_at": "2024-03-15 15:29:56.982-04",
+    "updated_at": "2024-03-15 15:29:56.982-04"
+  },
+  {
+    "id": 169,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 95,
+    "created_at": "2024-03-15 15:30:58.572-04",
+    "updated_at": "2024-03-15 15:30:58.572-04"
+  },
+  {
+    "id": 170,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 96,
+    "created_at": "2024-03-15 15:39:12.16-04",
+    "updated_at": "2024-03-15 15:39:12.16-04"
+  },
+  {
+    "id": 171,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 97,
+    "created_at": "2024-03-15 20:32:29.19-04",
+    "updated_at": "2024-03-15 20:32:29.19-04"
+  },
+  {
+    "id": 172,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-16 02:45:24.215-04",
+    "updated_at": "2024-03-16 02:45:24.215-04"
+  },
+  {
+    "id": 173,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-16 13:09:56.102-04",
+    "updated_at": "2024-03-16 13:09:56.102-04"
+  },
+  {
+    "id": 174,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 98,
+    "created_at": "2024-03-16 15:17:26.348-04",
+    "updated_at": "2024-03-16 15:17:26.348-04"
+  },
+  {
+    "id": 175,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 99,
+    "created_at": "2024-03-16 16:10:42.695-04",
+    "updated_at": "2024-03-16 16:10:42.695-04"
+  },
+  {
+    "id": 176,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 53,
+    "created_at": "2024-03-16 16:39:29.319-04",
+    "updated_at": "2024-03-16 16:39:29.319-04"
+  },
+  {
+    "id": 177,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 100,
+    "created_at": "2024-03-17 00:41:27.455-04",
+    "updated_at": "2024-03-17 00:41:27.455-04"
+  },
+  {
+    "id": 178,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-17 01:02:55.539-04",
+    "updated_at": "2024-03-17 01:02:55.539-04"
+  },
+  {
+    "id": 179,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 70,
+    "created_at": "2024-03-17 08:11:33.011-04",
+    "updated_at": "2024-03-17 08:11:33.011-04"
+  },
+  {
+    "id": 180,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-17 09:09:54.238-04",
+    "updated_at": "2024-03-17 09:09:54.238-04"
+  },
+  {
+    "id": 181,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 101,
+    "created_at": "2024-03-17 10:32:35.331-04",
+    "updated_at": "2024-03-17 10:32:35.331-04"
+  },
+  {
+    "id": 182,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 102,
+    "created_at": "2024-03-17 21:30:11.811-04",
+    "updated_at": "2024-03-17 21:30:11.811-04"
+  },
+  {
+    "id": 183,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 68,
+    "created_at": "2024-03-17 22:35:11.178-04",
+    "updated_at": "2024-03-17 22:35:11.178-04"
+  },
+  {
+    "id": 184,
+    "client_id": 1,
+    "page": "Blogs",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 103,
+    "created_at": "2024-03-17 22:52:42.399-04",
+    "updated_at": "2024-03-17 22:52:42.399-04"
+  },
+  {
+    "id": 185,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 104,
+    "created_at": "2024-03-18 00:19:41.021-04",
+    "updated_at": "2024-03-18 00:19:41.021-04"
+  },
+  {
+    "id": 186,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 105,
+    "created_at": "2024-03-18 00:19:54.89-04",
+    "updated_at": "2024-03-18 00:19:54.89-04"
+  },
+  {
+    "id": 187,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 106,
+    "created_at": "2024-03-18 00:20:53.49-04",
+    "updated_at": "2024-03-18 00:20:53.49-04"
+  },
+  {
+    "id": 188,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 106,
+    "created_at": "2024-03-18 00:23:18.661-04",
+    "updated_at": "2024-03-18 00:23:18.661-04"
+  },
+  {
+    "id": 189,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 107,
+    "created_at": "2024-03-18 07:29:54.828-04",
+    "updated_at": "2024-03-18 07:29:54.828-04"
+  },
+  {
+    "id": 190,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 101,
+    "created_at": "2024-03-18 10:52:47.411-04",
+    "updated_at": "2024-03-18 10:52:47.411-04"
+  },
+  {
+    "id": 191,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 108,
+    "created_at": "2024-03-18 10:59:50.839-04",
+    "updated_at": "2024-03-18 10:59:50.839-04"
+  },
+  {
+    "id": 192,
+    "client_id": 1,
+    "page": "Blogs",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 109,
+    "created_at": "2024-03-18 11:15:21.804-04",
+    "updated_at": "2024-03-18 11:15:21.804-04"
+  },
+  {
+    "id": 193,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 110,
+    "created_at": "2024-03-18 13:58:16.404-04",
+    "updated_at": "2024-03-18 13:58:16.404-04"
+  },
+  {
+    "id": 194,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 107,
+    "created_at": "2024-03-18 17:28:51.746-04",
+    "updated_at": "2024-03-18 17:28:51.746-04"
+  },
+  {
+    "id": 195,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 111,
+    "created_at": "2024-03-18 23:15:23.555-04",
+    "updated_at": "2024-03-18 23:15:23.555-04"
+  },
+  {
+    "id": 196,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-18 23:54:19.882-04",
+    "updated_at": "2024-03-18 23:54:19.882-04"
+  },
+  {
+    "id": 197,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 103,
+    "created_at": "2024-03-19 10:30:35.69-04",
+    "updated_at": "2024-03-19 10:30:35.69-04"
+  },
+  {
+    "id": 198,
+    "client_id": 1,
+    "page": "Blogs",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 97,
+    "created_at": "2024-03-19 13:43:28.237-04",
+    "updated_at": "2024-03-19 13:43:28.237-04"
+  },
+  {
+    "id": 199,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 86,
+    "created_at": "2024-03-19 14:54:21.191-04",
+    "updated_at": "2024-03-19 14:54:21.191-04"
+  },
+  {
+    "id": 200,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 96,
+    "created_at": "2024-03-19 15:20:49.072-04",
+    "updated_at": "2024-03-19 15:20:49.072-04"
+  },
+  {
+    "id": 201,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 96,
+    "created_at": "2024-03-19 15:21:20.013-04",
+    "updated_at": "2024-03-19 15:21:20.013-04"
+  },
+  {
+    "id": 202,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 15:58:50.956-04",
+    "updated_at": "2024-03-19 15:58:50.956-04"
+  },
+  {
+    "id": 203,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 75,
+    "created_at": "2024-03-19 16:04:33.511-04",
+    "updated_at": "2024-03-19 16:04:33.511-04"
+  },
+  {
+    "id": 204,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 53,
+    "created_at": "2024-03-19 16:05:12.869-04",
+    "updated_at": "2024-03-19 16:05:12.869-04"
+  },
+  {
+    "id": 205,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 113,
+    "created_at": "2024-03-19 16:37:01.468-04",
+    "updated_at": "2024-03-19 16:37:01.468-04"
+  },
+  {
+    "id": 206,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 114,
+    "created_at": "2024-03-20 01:58:17.769-04",
+    "updated_at": "2024-03-20 01:58:17.769-04"
+  },
+  {
+    "id": 207,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 115,
+    "created_at": "2024-03-20 02:19:47.393-04",
+    "updated_at": "2024-03-20 02:19:47.393-04"
+  },
+  {
+    "id": 208,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-20 09:16:12.718-04",
+    "updated_at": "2024-03-20 09:16:12.718-04"
+  },
+  {
+    "id": 209,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 108,
+    "created_at": "2024-03-20 11:34:47.637-04",
+    "updated_at": "2024-03-20 11:34:47.637-04"
+  },
+  {
+    "id": 210,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 108,
+    "created_at": "2024-03-20 11:36:15.666-04",
+    "updated_at": "2024-03-20 11:36:15.666-04"
+  },
+  {
+    "id": 211,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 116,
+    "created_at": "2024-03-20 12:35:43.54-04",
+    "updated_at": "2024-03-20 12:35:43.54-04"
+  },
+  {
+    "id": 212,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 117,
+    "created_at": "2024-03-20 12:42:26.895-04",
+    "updated_at": "2024-03-20 12:42:26.895-04"
+  },
+  {
+    "id": 213,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 117,
+    "created_at": "2024-03-20 12:42:41.139-04",
+    "updated_at": "2024-03-20 12:42:41.139-04"
+  },
+  {
+    "id": 214,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 117,
+    "created_at": "2024-03-20 12:42:58.285-04",
+    "updated_at": "2024-03-20 12:42:58.285-04"
+  },
+  {
+    "id": 215,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 117,
+    "created_at": "2024-03-20 12:44:55.047-04",
+    "updated_at": "2024-03-20 12:44:55.047-04"
+  },
+  {
+    "id": 216,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 117,
+    "created_at": "2024-03-20 12:46:24.086-04",
+    "updated_at": "2024-03-20 12:46:24.086-04"
+  },
+  {
+    "id": 217,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 116,
+    "created_at": "2024-03-20 13:15:42.674-04",
+    "updated_at": "2024-03-20 13:15:42.674-04"
+  },
+  {
+    "id": 218,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-20 13:27:11.188-04",
+    "updated_at": "2024-03-20 13:27:11.188-04"
+  },
+  {
+    "id": 219,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 74,
+    "created_at": "2024-03-20 14:02:53.715-04",
+    "updated_at": "2024-03-20 14:02:53.715-04"
+  },
+  {
+    "id": 220,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 118,
+    "created_at": "2024-03-20 14:04:56.378-04",
+    "updated_at": "2024-03-20 14:04:56.378-04"
+  },
+  {
+    "id": 221,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 119,
+    "created_at": "2024-03-20 14:05:40.664-04",
+    "updated_at": "2024-03-20 14:05:40.664-04"
+  },
+  {
+    "id": 222,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 74,
+    "created_at": "2024-03-20 14:07:16.323-04",
+    "updated_at": "2024-03-20 14:07:16.323-04"
+  },
+  {
+    "id": 223,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 74,
+    "created_at": "2024-03-20 14:51:18.592-04",
+    "updated_at": "2024-03-20 14:51:18.592-04"
+  },
+  {
+    "id": 224,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 74,
+    "created_at": "2024-03-20 15:02:33.084-04",
+    "updated_at": "2024-03-20 15:02:33.084-04"
+  },
+  {
+    "id": 225,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-20 21:38:59.238-04",
+    "updated_at": "2024-03-20 21:38:59.238-04"
+  },
+  {
+    "id": 226,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 120,
+    "created_at": "2024-03-20 21:51:04.271-04",
+    "updated_at": "2024-03-20 21:51:04.271-04"
+  },
+  {
+    "id": 227,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 70,
+    "created_at": "2024-03-20 22:40:46.337-04",
+    "updated_at": "2024-03-20 22:40:46.337-04"
+  },
+  {
+    "id": 228,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 104,
+    "created_at": "2024-03-21 00:59:01.851-04",
+    "updated_at": "2024-03-21 00:59:01.851-04"
+  },
+  {
+    "id": 229,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 81,
+    "created_at": "2024-03-21 01:47:36.449-04",
+    "updated_at": "2024-03-21 01:47:36.449-04"
+  },
+  {
+    "id": 230,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 121,
+    "created_at": "2024-03-21 07:03:43.095-04",
+    "updated_at": "2024-03-21 07:03:43.095-04"
+  },
+  {
+    "id": 231,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 122,
+    "created_at": "2024-03-21 07:44:58.384-04",
+    "updated_at": "2024-03-21 07:44:58.384-04"
+  },
+  {
+    "id": 232,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 123,
+    "created_at": "2024-03-21 09:14:49.926-04",
+    "updated_at": "2024-03-21 09:14:49.926-04"
+  },
+  {
+    "id": 233,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 68,
+    "created_at": "2024-03-21 09:40:29.933-04",
+    "updated_at": "2024-03-21 09:40:29.933-04"
+  },
+  {
+    "id": 234,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 124,
+    "created_at": "2024-03-21 09:41:57.122-04",
+    "updated_at": "2024-03-21 09:41:57.122-04"
+  },
+  {
+    "id": 235,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 117,
+    "created_at": "2024-03-21 09:58:28.526-04",
+    "updated_at": "2024-03-21 09:58:28.526-04"
+  },
+  {
+    "id": 236,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 125,
+    "created_at": "2024-03-21 13:15:02.19-04",
+    "updated_at": "2024-03-21 13:15:02.19-04"
+  },
+  {
+    "id": 237,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 126,
+    "created_at": "2024-03-21 19:29:05.113-04",
+    "updated_at": "2024-03-21 19:29:05.113-04"
+  },
+  {
+    "id": 238,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 127,
+    "created_at": "2024-03-22 00:13:38.21-04",
+    "updated_at": "2024-03-22 00:13:38.21-04"
+  },
+  {
+    "id": 239,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 128,
+    "created_at": "2024-03-22 00:15:28.774-04",
+    "updated_at": "2024-03-22 00:15:28.774-04"
+  },
+  {
+    "id": 240,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 129,
+    "created_at": "2024-03-22 08:04:41.425-04",
+    "updated_at": "2024-03-22 08:04:41.425-04"
+  },
+  {
+    "id": 241,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 107,
+    "created_at": "2024-03-22 08:42:59.423-04",
+    "updated_at": "2024-03-22 08:42:59.423-04"
+  },
+  {
+    "id": 242,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 130,
+    "created_at": "2024-03-22 10:37:25.69-04",
+    "updated_at": "2024-03-22 10:37:25.69-04"
+  },
+  {
+    "id": 243,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-22 10:39:22.731-04",
+    "updated_at": "2024-03-22 10:39:22.731-04"
+  },
+  {
+    "id": 244,
+    "client_id": 1,
+    "page": "Marketing User Form",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 130,
+    "created_at": "2024-03-22 10:40:38.417-04",
+    "updated_at": "2024-03-22 10:40:38.417-04"
+  },
+  {
+    "id": 245,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 129,
+    "created_at": "2024-03-22 10:59:30.739-04",
+    "updated_at": "2024-03-22 10:59:30.739-04"
+  },
+  {
+    "id": 246,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 122,
+    "created_at": "2024-03-22 11:05:47.559-04",
+    "updated_at": "2024-03-22 11:05:47.559-04"
+  },
+  {
+    "id": 247,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 53,
+    "created_at": "2024-03-22 17:52:45.801-04",
+    "updated_at": "2024-03-22 17:52:45.801-04"
+  },
+  {
+    "id": 248,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-22 18:26:03.216-04",
+    "updated_at": "2024-03-22 18:26:03.216-04"
+  },
+  {
+    "id": 249,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 131,
+    "created_at": "2024-03-23 03:17:28.731-04",
+    "updated_at": "2024-03-23 03:17:28.731-04"
+  },
+  {
+    "id": 250,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-23 08:13:23.961-04",
+    "updated_at": "2024-03-23 08:13:23.961-04"
+  },
+  {
+    "id": 251,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 89,
+    "created_at": "2024-03-23 08:21:31.262-04",
+    "updated_at": "2024-03-23 08:21:31.262-04"
+  },
+  {
+    "id": 252,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 91,
+    "created_at": "2024-03-23 10:49:40.79-04",
+    "updated_at": "2024-03-23 10:49:40.79-04"
+  },
+  {
+    "id": 253,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 107,
+    "created_at": "2024-03-23 14:18:32.346-04",
+    "updated_at": "2024-03-23 14:18:32.346-04"
+  },
+  {
+    "id": 254,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 120,
+    "created_at": "2024-03-23 20:48:05.612-04",
+    "updated_at": "2024-03-23 20:48:05.612-04"
+  },
+  {
+    "id": 255,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 132,
+    "created_at": "2024-03-23 21:38:19.844-04",
+    "updated_at": "2024-03-23 21:38:19.844-04"
+  },
+  {
+    "id": 256,
+    "client_id": 1,
+    "page": "home",
+    "user_id": "NULL",
+    "timestamp": "NULL",
+    "fingerprint_id": 75,
+    "created_at": "2024-03-23 22:36:28.128-04",
+    "updated_at": "2024-03-23 22:36:28.128-04"
+  }
+]

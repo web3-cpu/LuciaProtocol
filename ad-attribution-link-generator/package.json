@@ -1,0 +1,22 @@
+{
+  "name": "ad-attribution-link-generator",
+  "version": "1.0.0",
+  "description": "Generate custom links for various ad campaigns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ondecentral/ad-attribution-link-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ondecentral/ad-attribution-link-generator/issues"
+  },
+  "homepage": "https://github.com/ondecentral/ad-attribution-link-generator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

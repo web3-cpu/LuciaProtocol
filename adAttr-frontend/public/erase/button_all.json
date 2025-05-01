@@ -1,0 +1,578 @@
+[
+  {
+    "id": 49,
+    "client_id": 1,
+    "button": "#about",
+    "user_id": "NULL",
+    "fingerprint_id": 46,
+    "created_at": "2024-03-07 14:14:46.955-05",
+    "updated_at": "2024-03-07 14:14:46.955-05"
+  },
+  {
+    "id": 50,
+    "client_id": 1,
+    "button": "#product",
+    "user_id": "NULL",
+    "fingerprint_id": 46,
+    "created_at": "2024-03-07 14:14:48.541-05",
+    "updated_at": "2024-03-07 14:14:48.541-05"
+  },
+  {
+    "id": 51,
+    "client_id": 1,
+    "button": "Additional questions: Privacy policy",
+    "user_id": "NULL",
+    "fingerprint_id": 46,
+    "created_at": "2024-03-07 14:14:50.757-05",
+    "updated_at": "2024-03-07 14:14:50.757-05"
+  },
+  {
+    "id": 52,
+    "client_id": 1,
+    "button": "Additional questions: Data Collected?",
+    "user_id": "NULL",
+    "fingerprint_id": 46,
+    "created_at": "2024-03-07 14:14:51.289-05",
+    "updated_at": "2024-03-07 14:14:51.289-05"
+  },
+  {
+    "id": 53,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 46,
+    "created_at": "2024-03-07 14:14:51.999-05",
+    "updated_at": "2024-03-07 14:14:51.999-05"
+  },
+  {
+    "id": 54,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 46,
+    "created_at": "2024-03-07 14:14:52.541-05",
+    "updated_at": "2024-03-07 14:14:52.541-05"
+  },
+  {
+    "id": 55,
+    "client_id": 1,
+    "button": "About - Access the one paper",
+    "user_id": "NULL",
+    "fingerprint_id": 46,
+    "created_at": "2024-03-07 14:15:07.637-05",
+    "updated_at": "2024-03-07 14:15:07.637-05"
+  },
+  {
+    "id": 56,
+    "client_id": 1,
+    "button": "Access our one-paper",
+    "user_id": "NULL",
+    "fingerprint_id": 41,
+    "created_at": "2024-03-07 14:15:39.66-05",
+    "updated_at": "2024-03-07 14:15:39.66-05"
+  },
+  {
+    "id": 57,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:17:57.171-05",
+    "updated_at": "2024-03-07 14:17:57.171-05"
+  },
+  {
+    "id": 58,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:17:57.617-05",
+    "updated_at": "2024-03-07 14:17:57.617-05"
+  },
+  {
+    "id": 59,
+    "client_id": 1,
+    "button": "Additional questions: Data Collected?",
+    "user_id": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:17:58.091-05",
+    "updated_at": "2024-03-07 14:17:58.091-05"
+  },
+  {
+    "id": 60,
+    "client_id": 1,
+    "button": "Additional questions: Privacy policy",
+    "user_id": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:17:58.561-05",
+    "updated_at": "2024-03-07 14:17:58.561-05"
+  },
+  {
+    "id": 61,
+    "client_id": 1,
+    "button": "link-https://decentral.medium.com/day-one-mentality-63af619645e6",
+    "user_id": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:18:01.051-05",
+    "updated_at": "2024-03-07 14:18:01.051-05"
+  },
+  {
+    "id": 62,
+    "client_id": 1,
+    "button": "link-https://decentral.medium.com/day-one-mentality-63af619645e6",
+    "user_id": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:18:01.466-05",
+    "updated_at": "2024-03-07 14:18:01.466-05"
+  },
+  {
+    "id": 63,
+    "client_id": 1,
+    "button": "project - show more/less",
+    "user_id": "NULL",
+    "fingerprint_id": 47,
+    "created_at": "2024-03-07 14:18:06.571-05",
+    "updated_at": "2024-03-07 14:18:06.571-05"
+  },
+  {
+    "id": 64,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 49,
+    "created_at": "2024-03-07 14:35:18.688-05",
+    "updated_at": "2024-03-07 14:35:18.688-05"
+  },
+  {
+    "id": 65,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 49,
+    "created_at": "2024-03-07 14:35:20.594-05",
+    "updated_at": "2024-03-07 14:35:20.594-05"
+  },
+  {
+    "id": 66,
+    "client_id": 1,
+    "button": "Additional questions: Privacy policy",
+    "user_id": "NULL",
+    "fingerprint_id": 49,
+    "created_at": "2024-03-07 14:35:21.736-05",
+    "updated_at": "2024-03-07 14:35:21.736-05"
+  },
+  {
+    "id": 67,
+    "client_id": 1,
+    "button": "link-https://github.com/ondecentral",
+    "user_id": "NULL",
+    "fingerprint_id": 49,
+    "created_at": "2024-03-07 14:35:27.577-05",
+    "updated_at": "2024-03-07 14:35:27.577-05"
+  },
+  {
+    "id": 68,
+    "client_id": 1,
+    "button": "#product",
+    "user_id": "NULL",
+    "fingerprint_id": 52,
+    "created_at": "2024-03-07 15:14:30.418-05",
+    "updated_at": "2024-03-07 15:14:30.418-05"
+  },
+  {
+    "id": 69,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:08:45.494-05",
+    "updated_at": "2024-03-07 20:08:45.494-05"
+  },
+  {
+    "id": 70,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:09:52.854-05",
+    "updated_at": "2024-03-07 20:09:52.854-05"
+  },
+  {
+    "id": 71,
+    "client_id": 1,
+    "button": "#contact",
+    "user_id": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:10:45.83-05",
+    "updated_at": "2024-03-07 20:10:45.83-05"
+  },
+  {
+    "id": 72,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 54,
+    "created_at": "2024-03-07 20:16:54.58-05",
+    "updated_at": "2024-03-07 20:16:54.58-05"
+  },
+  {
+    "id": 73,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 61,
+    "created_at": "2024-03-08 07:41:31.512-05",
+    "updated_at": "2024-03-08 07:41:31.512-05"
+  },
+  {
+    "id": 74,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 61,
+    "created_at": "2024-03-08 07:41:35.508-05",
+    "updated_at": "2024-03-08 07:41:35.508-05"
+  },
+  {
+    "id": 75,
+    "client_id": 1,
+    "button": "Additional questions: Privacy policy",
+    "user_id": "NULL",
+    "fingerprint_id": 61,
+    "created_at": "2024-03-08 07:41:39.525-05",
+    "updated_at": "2024-03-08 07:41:39.525-05"
+  },
+  {
+    "id": 76,
+    "client_id": 1,
+    "button": "Additional questions: Data Collected?",
+    "user_id": "NULL",
+    "fingerprint_id": 61,
+    "created_at": "2024-03-08 07:41:42.537-05",
+    "updated_at": "2024-03-08 07:41:42.537-05"
+  },
+  {
+    "id": 77,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 63,
+    "created_at": "2024-03-08 08:12:18.59-05",
+    "updated_at": "2024-03-08 08:12:18.59-05"
+  },
+  {
+    "id": 78,
+    "client_id": 1,
+    "button": "#contact",
+    "user_id": "NULL",
+    "fingerprint_id": 63,
+    "created_at": "2024-03-08 08:15:12.822-05",
+    "updated_at": "2024-03-08 08:15:12.822-05"
+  },
+  {
+    "id": 79,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 72,
+    "created_at": "2024-03-12 14:01:34.241-04",
+    "updated_at": "2024-03-12 14:01:34.241-04"
+  },
+  {
+    "id": 80,
+    "client_id": 1,
+    "button": "#about",
+    "user_id": "NULL",
+    "fingerprint_id": 74,
+    "created_at": "2024-03-12 14:03:57.531-04",
+    "updated_at": "2024-03-12 14:03:57.531-04"
+  },
+  {
+    "id": 81,
+    "client_id": 1,
+    "button": "#product",
+    "user_id": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:10:21.068-04",
+    "updated_at": "2024-03-14 11:10:21.068-04"
+  },
+  {
+    "id": 82,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:10:41.499-04",
+    "updated_at": "2024-03-14 11:10:41.499-04"
+  },
+  {
+    "id": 83,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:10:52.238-04",
+    "updated_at": "2024-03-14 11:10:52.238-04"
+  },
+  {
+    "id": 84,
+    "client_id": 1,
+    "button": "Additional questions: Privacy policy",
+    "user_id": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:11:00.691-04",
+    "updated_at": "2024-03-14 11:11:00.691-04"
+  },
+  {
+    "id": 85,
+    "client_id": 1,
+    "button": "Additional questions: Data Collected?",
+    "user_id": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:11:03.733-04",
+    "updated_at": "2024-03-14 11:11:03.733-04"
+  },
+  {
+    "id": 86,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:12:09.33-04",
+    "updated_at": "2024-03-14 11:12:09.33-04"
+  },
+  {
+    "id": 87,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 84,
+    "created_at": "2024-03-14 11:12:22.874-04",
+    "updated_at": "2024-03-14 11:12:22.874-04"
+  },
+  {
+    "id": 88,
+    "client_id": 1,
+    "button": "Twitter",
+    "user_id": "NULL",
+    "fingerprint_id": 85,
+    "created_at": "2024-03-14 11:22:14.065-04",
+    "updated_at": "2024-03-14 11:22:14.065-04"
+  },
+  {
+    "id": 89,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 88,
+    "created_at": "2024-03-14 15:20:23.557-04",
+    "updated_at": "2024-03-14 15:20:23.557-04"
+  },
+  {
+    "id": 90,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 110,
+    "created_at": "2024-03-18 13:59:35.366-04",
+    "updated_at": "2024-03-18 13:59:35.366-04"
+  },
+  {
+    "id": 91,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 96,
+    "created_at": "2024-03-19 15:21:15.382-04",
+    "updated_at": "2024-03-19 15:21:15.382-04"
+  },
+  {
+    "id": 92,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 96,
+    "created_at": "2024-03-19 15:21:16.939-04",
+    "updated_at": "2024-03-19 15:21:16.939-04"
+  },
+  {
+    "id": 93,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 96,
+    "created_at": "2024-03-19 15:21:17.281-04",
+    "updated_at": "2024-03-19 15:21:17.281-04"
+  },
+  {
+    "id": 94,
+    "client_id": 1,
+    "button": "About - Access the one paper",
+    "user_id": "NULL",
+    "fingerprint_id": 96,
+    "created_at": "2024-03-19 15:21:19.084-04",
+    "updated_at": "2024-03-19 15:21:19.084-04"
+  },
+  {
+    "id": 95,
+    "client_id": 1,
+    "button": "#team",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:04:14.27-04",
+    "updated_at": "2024-03-19 16:04:14.27-04"
+  },
+  {
+    "id": 96,
+    "client_id": 1,
+    "button": "project - show more/less",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:08:01.551-04",
+    "updated_at": "2024-03-19 16:08:01.551-04"
+  },
+  {
+    "id": 97,
+    "client_id": 1,
+    "button": "project - show more/less",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:08:01.971-04",
+    "updated_at": "2024-03-19 16:08:01.971-04"
+  },
+  {
+    "id": 98,
+    "client_id": 1,
+    "button": "Additional questions: What is Attribution?",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:16:47.686-04",
+    "updated_at": "2024-03-19 16:16:47.686-04"
+  },
+  {
+    "id": 99,
+    "client_id": 1,
+    "button": "Additional questions: Legal relationship?",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:17:58.574-04",
+    "updated_at": "2024-03-19 16:17:58.574-04"
+  },
+  {
+    "id": 100,
+    "client_id": 1,
+    "button": "Additional questions: Privacy policy",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:18:21.438-04",
+    "updated_at": "2024-03-19 16:18:21.438-04"
+  },
+  {
+    "id": 101,
+    "client_id": 1,
+    "button": "Additional questions: Privacy policy",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:19:14.744-04",
+    "updated_at": "2024-03-19 16:19:14.744-04"
+  },
+  {
+    "id": 102,
+    "client_id": 1,
+    "button": "Additional questions: Data Collected?",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:19:15.102-04",
+    "updated_at": "2024-03-19 16:19:15.102-04"
+  },
+  {
+    "id": 103,
+    "client_id": 1,
+    "button": "#product",
+    "user_id": "NULL",
+    "fingerprint_id": 112,
+    "created_at": "2024-03-19 16:29:56.762-04",
+    "updated_at": "2024-03-19 16:29:56.762-04"
+  },
+  {
+    "id": 104,
+    "client_id": 1,
+    "button": "link-https://www.notion.so/Template-RSPA-2aab6c181a63418c834f0bdcb313b204",
+    "user_id": "NULL",
+    "fingerprint_id": 108,
+    "created_at": "2024-03-20 11:35:07.107-04",
+    "updated_at": "2024-03-20 11:35:07.107-04"
+  },
+  {
+    "id": 105,
+    "client_id": 1,
+    "button": "Access our one-paper",
+    "user_id": "NULL",
+    "fingerprint_id": 117,
+    "created_at": "2024-03-20 12:43:31.394-04",
+    "updated_at": "2024-03-20 12:43:31.394-04"
+  },
+  {
+    "id": 106,
+    "client_id": 1,
+    "button": "About - Access the one paper",
+    "user_id": "NULL",
+    "fingerprint_id": 130,
+    "created_at": "2024-03-22 10:40:38.036-04",
+    "updated_at": "2024-03-22 10:40:38.036-04"
+  },
+  {
+    "id": 107,
+    "client_id": 1,
+    "button": "About our Firm",
+    "user_id": "NULL",
+    "fingerprint_id": 134,
+    "created_at": "2024-03-24 13:03:24.528-04",
+    "updated_at": "2024-03-24 13:03:24.528-04"
+  },
+  {
+    "id": 108,
+    "client_id": 1,
+    "button": "Linkedin",
+    "user_id": "NULL",
+    "fingerprint_id": 134,
+    "created_at": "2024-03-24 13:03:35.324-04",
+    "updated_at": "2024-03-24 13:03:35.324-04"
+  },
+  {
+    "id": 109,
+    "client_id": 1,
+    "button": "Twitter",
+    "user_id": "NULL",
+    "fingerprint_id": 134,
+    "created_at": "2024-03-24 13:03:35.921-04",
+    "updated_at": "2024-03-24 13:03:35.921-04"
+  },
+  {
+    "id": 110,
+    "client_id": 1,
+    "button": "Instagram",
+    "user_id": "NULL",
+    "fingerprint_id": 134,
+    "created_at": "2024-03-24 13:03:37.672-04",
+    "updated_at": "2024-03-24 13:03:37.672-04"
+  },
+  {
+    "id": 111,
+    "client_id": 1,
+    "button": "Access our one-paper",
+    "user_id": "NULL",
+    "fingerprint_id": 136,
+    "created_at": "2024-03-24 21:45:03.014-04",
+    "updated_at": "2024-03-24 21:45:03.014-04"
+  },
+  {
+    "id": 112,
+    "client_id": 1,
+    "button": "Access our one-paper",
+    "user_id": "NULL",
+    "fingerprint_id": 137,
+    "created_at": "2024-03-24 21:47:20.163-04",
+    "updated_at": "2024-03-24 21:47:20.163-04"
+  }
+]

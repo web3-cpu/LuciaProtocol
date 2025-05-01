@@ -1,0 +1,1 @@
+const console = require('../config/log').console;
