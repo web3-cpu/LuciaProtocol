@@ -1,0 +1,392 @@
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(quickswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(quickswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(quickswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(quickswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(quickswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(quickswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Meshswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Meshswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Meshswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Meshswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Meshswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Meshswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(sushiswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(sushiswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(sushiswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(sushiswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(sushiswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(sushiswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(DFYN Network) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(DFYN Network) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(DFYN Network) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(DFYN Network) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(DFYN Network) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(DFYN Network) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(ComethSwap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(ComethSwap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(ComethSwap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(ComethSwap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(ComethSwap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(ComethSwap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Apeswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Apeswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Apeswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Apeswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Apeswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(quickswap) -> USDT(Apeswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(quickswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(quickswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(quickswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(quickswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(quickswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(quickswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Meshswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Meshswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Meshswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Meshswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Meshswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Meshswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(sushiswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(sushiswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(sushiswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(sushiswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(sushiswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(sushiswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(DFYN Network) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(DFYN Network) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(DFYN Network) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(DFYN Network) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(DFYN Network) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(DFYN Network) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(ComethSwap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(ComethSwap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(ComethSwap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(ComethSwap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(ComethSwap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(ComethSwap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Apeswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Apeswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Apeswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Apeswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Apeswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(Meshswap) -> USDT(Apeswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(quickswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(quickswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(quickswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(quickswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(quickswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(quickswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(Meshswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(Meshswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(Meshswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(Meshswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(Meshswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(Meshswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(sushiswap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(sushiswap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(sushiswap) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(sushiswap) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(sushiswap) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(sushiswap) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(DFYN Network) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(DFYN Network) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(DFYN Network) -> USDT(sushiswap)
+>>> Loan (USDC): 50.0 => Result: 49.703278
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(DFYN Network) -> USDT(DFYN Network)
+>>> Loan (USDC): 50.0 => Result: 49.608238
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(DFYN Network) -> USDT(ComethSwap)
+>>> Loan (USDC): 50.0 => Result: 32.753882
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(DFYN Network) -> USDT(Apeswap)
+>>> Loan (USDC): 50.0 => Result: 49.171967
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(ComethSwap) -> USDT(quickswap)
+>>> Loan (USDC): 50.0 => Result: 49.690726
+
+> Parsing paths: 
+>> USDC(quickswap) -> USDT(sushiswap) -> USDT(ComethSwap) -> USDT(Meshswap)
+>>> Loan (USDC): 50.0 => Result: 49.678458
+

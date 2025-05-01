@@ -1,0 +1,16 @@
+{
+    "network": "matic",
+    "chain_id": "137",
+    "provider_uri": "https://newest-holy-card.matic.discover.quiknode.pro/",
+    "provider_http": "",
+    "provider_wss": "wss://newest-holy-card.matic.discover.quiknode.pro/",
+    "config_path": "./configs/polygon/strategy-3.json",
+    "abi_paths": {
+        "token": "./abis/IERC20.json",
+        "logic": "./abis/FlashCyclicSwapV3.json"
+    },
+    "log": {
+        "console": true,
+        "file": true
+    }
+}
